@@ -1,0 +1,177 @@
+html {
+  background-color: #cfcfcf;
+  }
+body {
+  font: 13px "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  line-height: 1.4;
+  color: #777;
+  min-width: 960px;
+  height: 100%;
+  }
+header{
+  background-color: #fff;
+  line-height: 2;
+  }
+h1 {
+  font-weight: normal;
+  font-size: 20px;
+  color: #FE5013;
+  letter-spacing: -1px;
+  }
+h2 {
+  font-weight: bold;
+  font-size: 20px;
+  color: #777;
+  }
+div.social{
+  padding-top: 2em;
+  text-align: center;
+  }
+ul.social-buttons li a {
+    display: block;
+    width: 40px;
+    height: 40px;
+    border-radius: 100%;
+    font-size: 20px;
+    line-height: 40px;
+    outline: 0;
+    color: #fff;
+    background-color: #696969;
+    -webkit-transition: all .3s;
+    -moz-transition: all .3s;
+    transition: all .3s;
+    }
+
+ul.social-buttons li a:hover,
+ul.social-buttons li a:focus,
+ul.social-buttons li a:active {
+    background-color: #ff9900;
+   }
+.list-inline > li {
+    display: inline-block;
+    padding-right: 5px;
+    padding-left: 5px;
+  }
+a:link, a:visited {
+  color: #0084B4;
+  text-decoration: none;
+  }
+
+a:hover {
+  text-decoration: underline;
+  }
+
+#wrapper {
+  position: relative;
+  margin: 0 auto;
+  padding: 80px;
+  }
+
+#main {
+  height: 291px;
+  text-align: center;
+  }
+
+header, div#statistics, div#recently-updated, li.repo {
+  position: relative;
+  border-radius: 2px;
+  margin: 10px;
+  padding:20px;
+ }
+
+#logo {
+  height: 100px;
+  margin: 15px;
+  background: url("deegree-logo.png");
+  background-repeat: no-repeat;
+  text-indent: -99999px;
+}
+
+#num-repos, #num-members {
+  font-size: 14px;
+  font-weight: bold;
+  color: #0066ff;
+  line-height: 15px;
+  }
+#statistics, #recently-updated{
+  background-color: #fff;
+  }
+#statistics p.email {
+  margin-top: 6px;
+  font-size: 11px;
+  }
+
+#recently-updated h1 a {
+  font-weight: normal;
+  font-size: 11px;
+  }
+#recently-updated-repos li {
+  line-height: 1.5;
+  margin-left: 15px;  
+  }
+#recently-updated-repos li span {
+  display: inline-block;
+  padding: 0 1px;
+  font-size: 11px;
+  }
+#recently-updated-repos li span.name {
+  padding: 0 6px 0 0;
+  font-size: 13px;
+  }
+#recently-updated-repos li span.time a,
+#recently-updated-repos li span.watchers a,
+#recently-updated-repos li span.forks a {
+  color: #777;
+  }
+li.repo{
+  min-height: 150px
+  }
+li.repo > a {
+  display: block;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  text-decoration: none;
+  color: inherit;
+  }
+li.repo h2 {
+  overflow: hidden;
+  }
+li.repo h3 {
+  font-size: 11px;
+  margin-top: 2px;
+  margin-bottom: 15px;
+  color: #777;
+  }
+li.repo:hover {
+  background-color: #FE5013;
+  color: #fff;
+  }
+li.repo:hover h2{
+  color:#fff;
+  }
+.repo:after {
+  content: '';
+  position: absolute;
+  right: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  pointer-events: none;
+  z-index: -100;
+  }
+.repo:after {
+  background-color: #a8a8a8;
+  }
+.repo.css:after {
+  background-color: #b5b5b5;
+  }
+.repo.xslt:after {
+  background-color: #dbdbdb;
+  }
+.repo.java:after {
+  background-color: #fff;
+  }
+.repo.shell:after {
+  background-color: #c2c2c2;
+  }
