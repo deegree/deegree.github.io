@@ -1,34 +1,59 @@
 #
 #   Navigation to the left › side: left
 #
-- title: Start
+- title: Home
   url: "/"
   side: left
 
-- title: "Dropdown Menu"
-  url: "#"
+- title: "About deegree"
+  url: "/about-deegree/"
   side: left
-  dropdown:
-  - title: "Dropdown Menu 1"
-    url: "#"
-  - title: "Dropdown Menu 2"
-    url: "#"
-  - title: "Dropdown Menu 3"
-    url: "#"
 
-- title: Blog
-  url: "/blog/"
+- title: "Download"
+  url: "/download/"
+  side: left
+
+- title: "Documentation"
+  url: "/documentation/"
+  side: left
+
+- title: "Demo"
+  url: "/demo/"
+  side: left
+
+- title: "Community"
+  url: "/community/"
   side: left
   dropdown:
+  - title: "Guidelines"
+    url: "/community/guidelines"
   - title: "Blog Archive"
     url: "/blog/archive/"
+
+#- title: "Dropdown Menu"
+#  url: "#"
+#  side: left
+#  dropdown:
+#  - title: "Dropdown Menu 1"
+#    url: "#"
+#  - title: "Dropdown Menu 2"
+#    url: "#"
+#  - title: "Dropdown Menu 3"
+#    url: "#"
+##
+#- title: Blog
+#  url: "/blog/"
+#  side: left
+#  dropdown:
+#  - title: "Blog Archive"
+#    url: "/blog/archive/"
 
 #
 #   Navigation to the right › side: right
 #
-- title: "Info"
-  url: "/info/"
-  side: right
+#- title: "Info"
+#  url: "/info/"
+#  side: right
 
 - title: "Search"
   url: "/search/"
@@ -37,3 +62,8 @@
 - title: "Contact"
   url: "/contact/"
   side: right
+
+# see on services.yml
+#- title: "Imprint"
+#  url: "/imprint/"
+#  side: right

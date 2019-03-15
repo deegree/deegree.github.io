@@ -1,0 +1,12 @@
+{% if include.start %}<dl class="accordion" data-accordion>{% endif %}
+<dd class="accordion-navigation">
+{% unless accordioncounter %}
+{% assign accordioncounter = 1 %}
+{% endunless %}
+<a href="#panel{{ accordioncounter }}"><span class="iconfont"></span><strong>{{ include.title }}</strong></a>
+<div id="panel{{ accordioncounter }}" class="content{% if include.active %} active{% endif %}" markdown="1">
+{{ include.content }}
+</div>
+</dd>
+{% assign accordioncounter=accordioncounter | plus:1 %}
+{% if include.end %}</dl>{% endif %}

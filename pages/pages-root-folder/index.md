@@ -5,23 +5,23 @@
 # this work, you have to use › layout: frontpage
 #
 layout: frontpage
-header:
-  image_fullwidth: you-can-delete-me-header.png
-widget1:
-  title: "Widget 1"
-  url: 'http://domain.de/must-be-absolut-url-like-this-one/'
-  image: 'http://dummyimage.com/302x183/334d5c/efc94c.png&text=Placeholder'
-  text: ''
-widget2:
-  title: "Widget 2"
-  url: 'http://domain.de/must-be-absolut-url-like-this-one/'
-  image: 'http://dummyimage.com/302x183/334d5c/efc94c.png&text=Placeholder'
-  text: ''
-widget3:
-  title: "Widget 3"
-  url: 'http://domain.de/must-be-absolut-url-like-this-one/'
-  image: 'http://dummyimage.com/302x183/334d5c/efc94c.png&text=Placeholder'
-  text: ''
+#header:
+#  image_fullwidth: you-can-delete-me-header.png
+#widget1:
+#  title: "Widget 1"
+#  url: 'http://domain.de/must-be-absolut-url-like-this-one/'
+#  image: 'http://dummyimage.com/302x183/334d5c/efc94c.png&text=Placeholder'
+#  text: ''
+#widget2:
+#  title: "Widget 2"
+#  url: 'http://domain.de/must-be-absolut-url-like-this-one/'
+#  image: 'http://dummyimage.com/302x183/334d5c/efc94c.png&text=Placeholder'
+#  text: ''
+#widget3:
+#  title: "Widget 3"
+#  url: 'http://domain.de/must-be-absolut-url-like-this-one/'
+#  image: 'http://dummyimage.com/302x183/334d5c/efc94c.png&text=Placeholder'
+#  text: ''
 #
 # Use the call for action to show a button on the frontpage
 #
@@ -32,15 +32,26 @@ widget3:
 # to use the main color or success, alert or secondary.
 # To change colors see sass/_01_settings_colors.scss
 #
-callforaction:
-  url: https://tinyletter.com/feeling-responsive
-  text: Inform me about new updates and features ›
-  style: alert
+#callforaction:
+#  url: https://tinyletter.com/feeling-responsive
+#  text: Inform me about new updates and features ›
+#  style: alert
 permalink: /index.html
+hideposts: true
 ---
-<div id="videoModal" class="reveal-modal large" data-reveal="">
-  <div class="flex-video widescreen vimeo" style="display: block;">
-    <iframe width="1280" height="720" src="https://www.youtube.com/embed/3b5zCFSmVvU" frameborder="0" allowfullscreen></iframe>
-  </div>
-  <a class="close-reveal-modal">&#215;</a>
-</div>
+
+# Home
+---
+deegree is open source software for spatial data infrastructures and the geospatial web. deegree offers components for geospatial data management, including data access, visualization, discovery and security. Open standards are at the heart of deegree.
+
+[Download](/download)
+
+The software is built on the standards of the Open Geospatial Consortium (OGC) and the ISO Technical Committee 211. It includes the OGC Web Map Service (WMS) reference implementation, a fully compliant Web Feature Service (WFS) as well as packages for Catalogue Service (CSW), Web Coverage Service (WCS), Web Processing Service (WPS) and Web Map Tile Service (WMTS). Since 2000 deegree has been developed by lat/lon, with the strong intention to make it a community-driven project. A major step to this effect was the acceptance to be an OSGeo project in 2010. Today, deegree is maintained by several organisations and individuals with a large user base all around the world.
+
+![Figure: One of deegree's demo workspaces: A web mapping setup based on data from the state of Utah.]({{ site.urlimg }}console_workspace_utah2.jpg)
+Figure: One of deegree's demo workspaces: A web mapping setup based on data from the state of Utah.
+
+## deegree demos
+These are hosted versions of the four official example workspaces for deegree webservices 3.3:
+
+[deegree demo's](/demo)

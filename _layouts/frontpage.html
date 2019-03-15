@@ -2,19 +2,21 @@
 layout: default
 format: blog-index
 ---
+{% comment %}
 <div id="header-home">
     <div class="row">
         <div class="small-12 columns">
         </div><!-- /.medium-4.columns -->
     </div><!-- /.row -->
 </div><!-- /#header-home -->
-
+{% endcomment %}
 
 {% comment %}
 *
 * First check, if widget is empty or not by checking if there is a title
 *
 {% endcomment %}
+{% if page.widget1.title or page.widget2.title or page.widget3.title %}
 <div class="row t60">
 	{% if page.widget1.title %}
 		{% include _frontpage-widget.html widget=page.widget1 %}
@@ -30,7 +32,7 @@ format: blog-index
 		{% include _frontpage-widget.html widget=page.widget3 %}
 	{% endif %}
 </div><!-- /.row -->
-
+{% endif %}
 
 
 {% comment %}
@@ -51,15 +53,37 @@ format: blog-index
     </div><!-- /.row -->
 {% endif %}
 
+{% comment %}
+*
+* Content area
+*
+{% endcomment %}
+<div class="row t30">
+	<div class="medium-9 columns{% if page.sidebar == NULL %} medium-offset-2 end{% endif %}{% if page.sidebar == "left" %} medium-push-4{% endif %}">
+		{{ content }}
+	</div><!-- /.medium-8.columns -->
 
 
+	{% if page.sidebar == "left" %}
+	<div class="medium-3 columns medium-pull-9">
+		{% include _sidebar.html %}
+	</div><!-- /.medium-3.columns -->
+	{% endif %}
+
+
+	{% if page.sidebar == "right" %}
+	<div class="medium-3 columns">
+		{% include _sidebar.html %}
+	</div><!-- /.medium-3.columns -->
+	{% endif %}
+</div><!-- /.row -->
 {% comment %}
 *
 * First check, if there are any posts at all
 *
 {% endcomment %}
 
-{% unless site.posts == empty %}
+{% unless site.posts == empty or page.hideposts %}
     <div class="row t30 b20 homepage">
         <div class="small-12 columns">
             {% for post in site.posts limit:1 %}
@@ -100,14 +124,3 @@ format: blog-index
         </div><!-- /.medium-7.columns -->
     </div><!-- /.row -->
 {% endunless %}
-
-
-{% comment %}
-*
-* Finally, if there is content, spit it out.
-*
-{% endcomment %}
-
-<div class="row">
-    {{ content }}
-</div><!-- /.row -->

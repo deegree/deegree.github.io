@@ -53,3 +53,8 @@ s0.parentNode.insertBefore(s1,s0);
 </script>
 {% endif %}
 
+{% comment %}
+#  Automatically add target="_blank" to all non local links
+#
+{% endcomment %}
+<script src="{{ '/assets/js/mod_outer_links.js' | absolute_url }}"></script>
