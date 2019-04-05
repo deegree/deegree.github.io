@@ -13,6 +13,11 @@
   class: icon-linkedin
   title: ""
 
+- name: Stack Exchange
+  url: https://gis.stackexchange.com/questions/tagged/deegree
+  class: icon-globe
+  title: "Stack Exchange - Geographic Information Systems"
+
 #- name: YouTube
 #  url: http://www.youtube.com/
 #  class: icon-youtube
