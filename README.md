@@ -23,3 +23,4 @@ jekyll serve --incremental --config _config.yml,_config_dev.yml
 ```
 
 **Note:** It can be usefull to clean the `_site` directory before running jekyll to force re-creation of all content (styles etc.).
+
