@@ -8,7 +8,7 @@ permalink: "/download/"
 
 ## Current version: deegree webservices 3.4.5 (stable)
 
-This is the latest stable version (released March 30th, 2019).[Read more](https://download.deegree.org/documentation/3.4.5/html/installation.html) on installation, download packages and system requirements.
+This is the latest stable version (released March 30th, 2019). [Read more](https://download.deegree.org/documentation/3.4.5/html/installation.html) on installation, download packages and system requirements.
 
 
 * Docker Image:  

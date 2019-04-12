@@ -10,7 +10,7 @@ permalink: "/documentation/"
 
 This is the official user documentation ("handbook") for deegree webservices.
 
-  * 3.4.5 Released March 30st, 2019 &#124;&nbsp;[Read online](http://download.deegree.org/documentation/3.4.5/html/) &#124; [Download](http://repo.deegree.org/content/repositories/public/org/deegree/deegree-webservices-handbook/3.4.4/deegree-webservices-handbook-3.4.5.zip)
+  * 3.4.5 Released March 30st, 2019 &#124;&nbsp;[Read online](http://download.deegree.org/documentation/3.4.5/html/) &#124; [Download](http://repo.deegree.org/content/repositories/public/org/deegree/deegree-webservices-handbook/3.4.5/deegree-webservices-handbook-3.4.5.zip)
   * 3.4.4 Released March 1st, 2019 &#124;&nbsp;[Read online](http://download.deegree.org/documentation/3.4.4/html/) &#124; [Download](http://repo.deegree.org/content/repositories/public/org/deegree/deegree-webservices-handbook/3.4.4/deegree-webservices-handbook-3.4.4.zip)
   * 3.4.3 Released August 26th, 2018 &#124;&nbsp;[Read online](http://download.deegree.org/documentation/3.4.3/html/) &#124; [Download](http://repo.deegree.org/content/repositories/public/org/deegree/deegree-webservices-handbook/3.4.3/deegree-webservices-handbook-3.4.3.zip)
   * 3.4.2 Released July 7th, 2018 &#124;&nbsp;[Read online](http://download.deegree.org/documentation/3.4.2/html/) &#124; [Download](http://repo.deegree.org/content/repositories/public/org/deegree/deegree-webservices-handbook/3.4.2/deegree-webservices-handbook-3.4.2.zip) <br>
