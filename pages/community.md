@@ -14,7 +14,7 @@ If you find a bug, or have a great idea for a feature or enhancement, please do 
 
 ### Users mailing lists
 
-This is a discussion forum for all usage-related issues, like installation, deployment or specific tasks.</p>
+This is a discussion forum for all usage-related issues, like installation, deployment or specific tasks.
 
   * <a href="https://lists.sourceforge.net/lists/listinfo/deegree-users">Subscribe</a>
   * <a href="http://sourceforge.net/mailarchive/forum.php?forum_name=deegree-users">View Archive</a>
