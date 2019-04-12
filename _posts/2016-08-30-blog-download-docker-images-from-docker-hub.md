@@ -33,6 +33,6 @@ To start a docker container with the name `deegree` on port 8080 run the followi
 
 The Dockerfile is available at [https://github.com/deegree/deegree3-docker](https://github.com/deegree/deegree3-docker).
 
-Older versions of deegree Docker images are available from [https://hub.docker.com/r/tfr42/deegree/](https://hub.docker.com/r/tfr42/deegree/)*[]: 
+Older versions of deegree Docker images are available from [https://hub.docker.com/r/tfr42/deegree/](https://hub.docker.com/r/tfr42/deegree/): 
 
 The Dockerfile is available at [https://github.com/tfr42/deegree-docker](https://github.com/tfr42/deegree-docker).
