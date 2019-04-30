@@ -12,6 +12,8 @@ permalink: "/community/"
 
 If you find a bug, or have a great idea for a feature or enhancement, please do report it in the <a href="https://github.com/deegree/deegree3/issues">issue tracker</a>.
 
+**Note:** The issue tracker on GitHub is only meant to keep track of bugs, feature request and other things related to the development of deegree. Please ask your questions about the use of deegree on the deegree users mailing list instead.
+
 ### Community Support 
 
 We recommend to use <a href="https://gis.stackexchange.com/questions/tagged/deegree">GIS stackexchange</a> for posting questions and looking for community support. Or post your inquiry to the deegree users mailing list.
@@ -25,7 +27,7 @@ This is a discussion forum for all usage-related issues, like installation, depl
 
 ### Developers mailing list
 
-This is a discussion forum for all issues related to software development, like design, API usage, bug fixes and optimization.
+This is a discussion forum for all issues related to software development, like design, API usage, further development.
 
   * <a href="https://lists.sourceforge.net/lists/listinfo/deegree-devel">Subscribe</a>
   * <a href="http://sourceforge.net/mailarchive/forum.php?forum_name=deegree-devel">View Archive</a>
@@ -38,7 +40,7 @@ deegree's source code is hosted on <a href="https://github.com/deegree/deegree3"
 
 The <a href="http://wiki.deegree.org/">deegree wiki</a>&nbsp;(outdated as of deegree 3.2) was a collaborative support and documentation resource for the deegree project, as well as a means of communication between users and developers. 
 
-Developer information are available in the <a href="https://github.com/deegree/deegree3/wiki">github wiki</a>.
+The current developer information are available in the <a href="https://github.com/deegree/deegree3/wiki">github wiki</a>.
 
 ### IRC
 
