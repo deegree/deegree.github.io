@@ -6,20 +6,20 @@ teaser: ""
 permalink: "/community/"
 ---
 
-<em>NOTE: Please read the<a href="/community/guidelines"> troubleshooting guidelines</a> before filing an issue or asking a question on the mailing lists. </em>
+<em>NOTE: Please read the <a href="/community/guidelines">troubleshooting guidelines</a> before filing an issue or asking a question on the mailing lists.</em>
 
 ### Issue Tracker
 
 If you find a bug, or have a great idea for a feature or enhancement, please do report it in the<a href="https://github.com/deegree/deegree3/issues"> issue tracker</a>.
 
-### Users mailing lists
+### Users mailing list
 
 This is a discussion forum for all usage-related issues, like installation, deployment or specific tasks.
 
   * <a href="https://lists.sourceforge.net/lists/listinfo/deegree-users">Subscribe</a>
   * <a href="http://sourceforge.net/mailarchive/forum.php?forum_name=deegree-users">View Archive</a>
 
-### Developers Mailing list
+### Developers mailing list
 
 This is a discussion forum for all issues related to software development, like design, API usage, bug fixes and optimization.
 
