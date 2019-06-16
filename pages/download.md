@@ -6,9 +6,9 @@ teaser: ""
 permalink: "/download/"
 ---
 
-## Current version: deegree webservices 3.4.6 (stable)
+## Current version: deegree webservices 3.4.7 (stable)
 
-This is the latest stable version (released May 10th, 2019). [Read more](https://download.deegree.org/documentation/3.4.6/html/installation.html) on installation, download packages and system requirements.
+This is the latest stable version (released June 16th, 2019). [Read more](https://download.deegree.org/documentation/3.4.7/html/installation.html) on installation, download packages and system requirements.
 
 
 * Docker Image:  
@@ -17,9 +17,9 @@ Download the official Docker Image from Docker Hub. Ready to use container with 
 
 * Java Web Archive (.war):  
 Generic Java Web archive. In order to use it, you need to have a Java Servlet Container installed on your machine.  
-[Download WAR](https://repo.deegree.org/content/repositories/public/org/deegree/deegree-webservices/3.4.6/deegree-webservices-3.4.6.war)
+[Download WAR](https://repo.deegree.org/content/repositories/public/org/deegree/deegree-webservices/3.4.7/deegree-webservices-3.4.7.war)
 
-* [User documentation](https://download.deegree.org/documentation/3.4.6/html) &#124; [Release notes](https://github.com/deegree/deegree3/pulls?utf8=✓&amp;q=is:pr+is:closed+is:merged+milestone:3.4.6)
+* [User documentation](https://download.deegree.org/documentation/3.4.7/html) &#124; [Release notes](https://github.com/deegree/deegree3/pulls?utf8=✓&amp;q=is:pr+is:closed+is:merged+milestone:3.4.7)
 
 ## Archived versions
 
@@ -28,6 +28,7 @@ We do recommend to update to the most recent stable version of deegree. The deve
 <span style="text-decoration: underline;">**WARNING:**</span> These archived versions are only provided for software development purposes, e.g. comparing differences in behavior between earlier deegree versions, and should in <span style="text-decoration: underline;">no</span> circumstance be used for new installations in production environments!
 
 {% capture accordion_body %}
+* 3.4.6  Release May 10st, 2019 &#124; [ZIP](http://repo.deegree.org/content/groups/public/org/deegree/deegree-webservices-tomcat-bundle/3.4.6/deegree-webservices-tomcat-bundle-3.4.6-distribution.zip) &#124; [WAR](https://repo.deegree.org/content/repositories/public/org/deegree/deegree-webservices/3.4.6/deegree-webservices-3.4.6.war) &#124; [User documentation](https://download.deegree.org/documentation/3.4.6/html) &#124; [Release notes](https://github.com/deegree/deegree3/pulls?q=is:pr+is:closed+is:merged+milestone:3.4.6)
 * 3.4.5  Release March 30st, 2019 &#124; [ZIP](http://repo.deegree.org/content/groups/public/org/deegree/deegree-webservices-tomcat-bundle/3.4.5/deegree-webservices-tomcat-bundle-3.4.5-distribution.zip) &#124; [WAR](https://repo.deegree.org/content/repositories/public/org/deegree/deegree-webservices/3.4.5/deegree-webservices-3.4.5.war) &#124; [User documentation](https://download.deegree.org/documentation/3.4.5/html) &#124; [Release notes](https://github.com/deegree/deegree3/pulls?q=is:pr+is:closed+is:merged+milestone:3.4.5)
 * 3.4.4  Release March 1st, 2019 &#124; [ZIP](http://repo.deegree.org/content/groups/public/org/deegree/deegree-webservices-tomcat-bundle/3.4.4/deegree-webservices-tomcat-bundle-3.4.4-distribution.zip) &#124; [WAR](https://repo.deegree.org/content/repositories/public/org/deegree/deegree-webservices/3.4.4/deegree-webservices-3.4.4.war) &#124; [User documentation](https://download.deegree.org/documentation/3.4.4/html) &#124; [Release notes](https://github.com/deegree/deegree3/pulls?q=is:pr+is:closed+is:merged+milestone:3.4.4)
 * 3.4.3  Release August 26th, 2018 &#124; [ZIP](http://repo.deegree.org/content/groups/public/org/deegree/deegree-webservices-tomcat-bundle/3.4.3/deegree-webservices-tomcat-bundle-3.4.3-distribution.zip) &#124; [WAR](https://repo.deegree.org/content/repositories/public/org/deegree/deegree-webservices/3.4.3/deegree-webservices-3.4.3.war) &#124; [User documentation](https://download.deegree.org/documentation/3.4.3/html) &#124; [Release notes](https://github.com/deegree/deegree3/pulls?q=is:pr+is:closed+is:merged+milestone:3.4.3)
