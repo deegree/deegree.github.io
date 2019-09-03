@@ -38,14 +38,14 @@ deegree's source code is hosted on <a href="https://github.com/deegree/deegree3"
 
 ### Wiki
 
-The <a href="http://wiki.deegree.org/">deegree wiki</a>&nbsp;(outdated as of deegree 3.2) was a collaborative support and documentation resource for the deegree project, as well as a means of communication between users and developers. 
+The <a href="http://wiki.deegree.org/">deegree wiki</a>&nbsp;(outdated as of deegree version 3.2) was a collaborative support and documentation resource for the deegree project, as well as a means of communication between users and developers. 
 
 The current developer information are available in the <a href="https://github.com/deegree/deegree3/wiki">github wiki</a>.
 
 ### IRC
 
-For joining TMC meetings or a sessions with a developer please join&nbsp;<a href="irc://irc.freenode.net/deegree">IRC channel #deegree</a>.
+For joining TMC meetings or a sessions with a developer please join the IRC channel *#deegree* (`irc://irc.freenode.net/deegree` or webchat <a href="https://webchat.freenode.net/#deegree">webchat.freenode.net/#deegree</a>).
 
 ### OSGeo project website
 
-Further ressources about the OSGeo project deegree can be found at the <a href="https://www.osgeo.org/projects/deegree/">Open Source Geospatial Foundation</a>.
+Further resources about the OSGeo project deegree can be found at the <a href="https://www.osgeo.org/projects/deegree/">Open Source Geospatial Foundation</a>.
