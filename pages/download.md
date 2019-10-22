@@ -19,7 +19,7 @@ Download the official Docker Image from Docker Hub. Ready to use container with 
 Generic Java Web archive. In order to use it, you need to have a Java Servlet Container installed on your machine.  
 [Download WAR](https://repo.deegree.org/content/repositories/public/org/deegree/deegree-webservices/3.4.9/deegree-webservices-3.4.9.war)
 
-* [User documentation (HTML)](https://download.deegree.org/documentation/3.4.9/html) &#124; [User documentation (PDF)](http://repo.deegree.org/content/repositories/public/org/deegree/deegree-webservices-handbook/3.4.9/deegree-webservices-handbook-3.4.9.pdf)  
+* [User documentation (HTML)](https://download.deegree.org/documentation/3.4.9/html) &#124; [User documentation (PDF)](http://download.deegree.org/documentation/3.4.9/deegree-webservices-handbook-3.4.9.pdf)  
 * [Change log](https://github.com/deegree/deegree3/pulls?utf8=✓&amp;q=is:pr+is:closed+is:merged+milestone:3.4.9)
 
 ## Archived versions
