@@ -25,6 +25,8 @@
   url: "/community/"
   side: left
   dropdown:
+  - title: "Community"
+    url: "/community/"
   - title: "Guidelines"
     url: "/community/guidelines"
   - title: "Blog Archive"
