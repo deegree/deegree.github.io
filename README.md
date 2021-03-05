@@ -11,7 +11,7 @@ This Website was created for [Jekyll][1] using the [*Feeling Responsive*][2] The
 A local development environment can be used by installing Ruby (2.6.x) and running the following in the website directory.
 
 ```bash
-gem install bundler
+gem install jekyll bundler
 # inside directory containing the Gemfile
 bundler install
 ```
@@ -19,7 +19,7 @@ bundler install
 Jekyll can be executed locally with the following command:
 
 ```bash
-jekyll serve --incremental --host=0.0.0.0 --config _config.yml,_config_dev.yml
+bundle exec jekyll serve --incremental --host=0.0.0.0 --config _config.yml,_config_dev.yml
 ```
 
 **Note:** It can be useful to clean the `_site` directory before running jekyll to force re-creation of all content (styles etc.).

@@ -48,4 +48,4 @@ For joining TMC meetings or a sessions with a developer please join the IRC chan
 
 ### OSGeo project website
 
-Further resources about the OSGeo project deegree can be found at the <a href="https://www.osgeo.org/projects/deegree/">Open Source Geospatial Foundation</a>.
+Further resources about the OSGeo project deegree can be found at the <a href="https://www.osgeo.org/projects/deegree/">Open Source Geospatial Foundation</a> and german translation at <a href="https://www.fossgis.de/aktivit%c3%a4ten/langzeitf%c3%b6rderungen/deegree/">FOSSGIS e.V. (Local chapter of OSGeo for D-A-CH)</a>. 

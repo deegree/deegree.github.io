@@ -44,7 +44,8 @@ hideposts: true
 ---
 deegree is open source software for spatial data infrastructures and the geospatial web. deegree offers components for geospatial data management, including data access, visualization, discovery and security. Open standards are at the heart of deegree.
 
-[Download](/download)
+
+[Download (stable release 3.4.15)](/download) - [Documentation](/documentation) - [Community Support](/community)
 
 The software is built on the standards of the Open Geospatial Consortium (OGC) and the ISO Technical Committee 211. It includes the OGC Web Map Service (WMS) reference implementation, a fully compliant Web Feature Service (WFS) as well as packages for Catalogue Service (CSW), Web Coverage Service (WCS), Web Processing Service (WPS) and Web Map Tile Service (WMTS). Since 2000 deegree has been developed by lat/lon, with the strong intention to make it a community-driven project. A major step to this effect was the acceptance to be an OSGeo project in 2010. Today, deegree is maintained by several organisations and individuals with a large user base all around the world.
 
@@ -52,6 +53,12 @@ The software is built on the standards of the Open Geospatial Consortium (OGC) a
 Figure: One of deegree's demo workspaces: A web mapping setup based on data from the state of Utah.
 
 ## deegree demos
-These are hosted versions of the four official example workspaces for deegree webservices 3.3:
+These are hosted versions of the official example workspaces for deegree webservices:
 
-[deegree demo's](/demo)
+[deegree demos](/demo)
+
+##  Sponsorship and donations
+
+Successful open source development requires a sustainable financial story. You can support the deegree project by donations and financial support. Please read further how to [sponsor the OSGeo Foundation and the OSGeo project deegree](https://github.com/deegree/deegree3/wiki/Sponsorship).
+
+<a href="https://www.paypal.com/donate/?cmd=_s-xclick&hosted_button_id=NWV8QNKA36YGL&source=url" target="_blank" rel="noopener noreferrer"><img src="{{ site.urlimg }}paypal_donate.png" alt="donate via paypal"/></a>
