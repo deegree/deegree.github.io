@@ -8,14 +8,14 @@ permalink: "/demo/"
 
 ## deegree demos
 
-These are hosted versions of the four official example workspaces for deegree webservices 3.3:
+These are hosted versions of the four official example workspaces for deegree webservices:
 
 <em>NOTE: For the hosted versions, access to the service console has been disabled. Also, support for transactional WFS or CSW requests is deactivated.</em>
 
 <hr>
 ### deegree INSPIRE Demo Workspace
 
-A basic INSPIRE View and Download Services setup (&gt; <a href="https://download.deegree.org/documentation/3.3.20/html/lightly.html#example-workspace-1-inspire-network-services" target="_blank" rel="noopener noreferrer">more info</a>&nbsp;on usage of demo).
+A basic INSPIRE View and Download Services setup (&gt; <a href="https://download.deegree.org/documentation/current/html/#anchor-workspace-inspire" target="_blank" rel="noopener noreferrer">more info</a>&nbsp;on usage of demo).
 
 <p class="btn"><a href="https://demo.deegree.org/inspire-workspace/" target="_blank" rel="noopener noreferrer">Start INSPIRE Demo</a></p>
 
@@ -24,7 +24,7 @@ A basic INSPIRE View and Download Services setup (&gt; <a href="https://download
 <hr>
 ### deegree Utah-workspace
 
-A web mapping setup based on data from the state of Utah (&gt; <a href="https://download.deegree.org/documentation/3.3.20/html/lightly.html#example-workspace-2-utah-webmapping-services" target="_blank" rel="noopener noreferrer">more info</a>&nbsp;on usage of demo).
+A web mapping setup based on data from the state of Utah (&gt; <a href="https://download.deegree.org/documentation/current/html/#anchor-workspace-utah" target="_blank" rel="noopener noreferrer">more info</a>&nbsp;on usage of demo).
 
 <p class="btn"><a href="https://demo.deegree.org/utah-workspace/" target="_blank" rel="noopener noreferrer">Start Utah Demo</a>&nbsp;</p>
 
@@ -33,7 +33,7 @@ A web mapping setup based on data from the state of Utah (&gt; <a href="https://
 <hr>
 ### deegree WPS-workspace
 
-A WPS setup with simple example processes and example requests (&gt;&nbsp;<a href="https://download.deegree.org/documentation/3.3.20/html/lightly.html#example-workspace-4-web-processing-service-demo" target="_blank" rel="noopener noreferrer">more info</a>&nbsp;on usage of demo).
+A WPS setup with simple example processes and example requests (&gt;&nbsp;<a href="https://download.deegree.org/documentation/current/html/#anchor-workspace-wps" target="_blank" rel="noopener noreferrer">more info</a>&nbsp;on usage of demo).
 
 <p class="btn"><a href="https://demo.deegree.org/wps-workspace/" target="_blank" rel="noopener noreferrer">Start WPS Demo</a></p>
 
@@ -43,7 +43,7 @@ A WPS setup with simple example processes and example requests (&gt;&nbsp;<a hre
 
 ### deegree CSW-workspace
 
-A CSW setup that complies to the ISO Application Profile (<a href="https://download.deegree.org/documentation/3.3.20/html/lightly.html#example-workspace-3-an-iso-catalogue-service-setup" target="_blank" rel="noopener noreferrer">more info</a>&nbsp;on usage of demo).
+A CSW setup that complies to the ISO Application Profile (<a href="https://download.deegree.org/documentation/current/html/#anchor-workspace-csw" target="_blank" rel="noopener noreferrer">more info</a>&nbsp;on usage of demo).
 
 <p class="btn"><a href="https://demo.deegree.org/csw-workspace/" target="_blank" rel="noopener noreferrer">Start CSW Demo</a></p>
 
