@@ -44,7 +44,7 @@ The current developer information are available in the <a href="https://github.c
 
 ### IRC
 
-For joining TMC meetings or a sessions with a developer please join the IRC channel *#deegree* (`irc://irc.freenode.net/deegree` or webchat <a href="https://webchat.freenode.net/#deegree">webchat.freenode.net/#deegree</a>).
+For joining TMC meetings or a sessions with a developer please join the IRC channel *#deegree* (`irc://irc.libera.chat/deegree` or webchat <a href="https://web.libera.chat/#deegree">web.libera.chat/#deegree</a>).
 
 ### OSGeo project website
 
