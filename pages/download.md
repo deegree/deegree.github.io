@@ -6,9 +6,9 @@ teaser: ""
 permalink: "/download/"
 ---
 
-## Current version: deegree webservices 3.4.17 (stable)
+## Current version: deegree webservices 3.4.18 (stable)
 
-This is the latest stable version (released August 14th, 2021). [Read more](https://download.deegree.org/documentation/current/html/index.html#anchor-installation) on installation, download packages and system requirements.
+This is the latest stable version (released November 16, 2021). [Read more](https://download.deegree.org/documentation/current/html/index.html#anchor-installation) on installation, download packages and system requirements.
 
 * Docker Image:  
 Download the official Docker Image from Docker Hub. Ready to use container with OpenJDK and Apache Tomcat.  
@@ -16,10 +16,10 @@ Download the official Docker Image from Docker Hub. Ready to use container with 
 
 * Java Web Archive (.war):  
 Generic Java Web archive. In order to use it, you need to have a Java Servlet Container installed on your machine.  
-[Download WAR](https://repo.deegree.org/content/repositories/public/org/deegree/deegree-webservices/3.4.17/deegree-webservices-3.4.17.war)
+[Download WAR](https://repo.deegree.org/content/repositories/public/org/deegree/deegree-webservices/3.4.18/deegree-webservices-3.4.18.war)
 
-* [User documentation (HTML)](https://download.deegree.org/documentation/3.4.17/html/) &#124; [User documentation (PDF)](https://download.deegree.org/documentation/3.4.17/deegree-webservices-handbook-3.4.17.pdf)  
-* [Change log](https://github.com/deegree/deegree3/pulls?q=is:pr+is:closed+is:merged+milestone:3.4.17)
+* [User documentation (HTML)](https://download.deegree.org/documentation/3.4.18/html/) &#124; [User documentation (PDF)](https://download.deegree.org/documentation/3.4.18/deegree-webservices-handbook-3.4.18.pdf)  
+* [Change log](https://github.com/deegree/deegree3/pulls?q=is:pr+is:closed+is:merged+milestone:3.4.18)
 
 ## Archived versions
 
@@ -28,6 +28,7 @@ We do recommend to update to the most recent stable version of deegree. The deve
 <span style="text-decoration: underline;">**WARNING:**</span> These archived versions are only provided for software development purposes, e.g. comparing differences in behavior between earlier deegree versions, and should in <span style="text-decoration: underline;">no</span> circumstance be used for new installations in production environments!
 
 {% capture accordion_body %}
+* 3.4.17 Released August 14th, 2021 &#124; [ZIP](https://repo.deegree.org/content/groups/public/org/deegree/deegree-webservices-tomcat-bundle/3.4.17/deegree-webservices-tomcat-bundle-3.4.17-distribution.zip) &#124; [WAR](https://repo.deegree.org/content/repositories/public/org/deegree/deegree-webservices/3.4.17/deegree-webservices-3.4.17.war) &#124; [User documentation](https://download.deegree.org/documentation/3.4.17/html) &#124; [Release notes](https://github.com/deegree/deegree3/pulls?q=is:pr+is:closed+is:merged+milestone:3.4.17)
 * 3.4.16 Released March 12th, 2021 &#124; [ZIP](https://repo.deegree.org/content/groups/public/org/deegree/deegree-webservices-tomcat-bundle/3.4.16/deegree-webservices-tomcat-bundle-3.4.16-distribution.zip) &#124; [WAR](https://repo.deegree.org/content/repositories/public/org/deegree/deegree-webservices/3.4.16/deegree-webservices-3.4.16.war) &#124; [User documentation](https://download.deegree.org/documentation/3.4.16/html) &#124; [Release notes](https://github.com/deegree/deegree3/pulls?q=is:pr+is:closed+is:merged+milestone:3.4.16)
 * 3.4.15 Released January 30th, 2021 &#124; [ZIP](https://repo.deegree.org/content/groups/public/org/deegree/deegree-webservices-tomcat-bundle/3.4.15/deegree-webservices-tomcat-bundle-3.4.15-distribution.zip) &#124; [WAR](https://repo.deegree.org/content/repositories/public/org/deegree/deegree-webservices/3.4.15/deegree-webservices-3.4.15.war) &#124; [User documentation](https://download.deegree.org/documentation/3.4.15/html) &#124; [Release notes](https://github.com/deegree/deegree3/pulls?q=is:pr+is:closed+is:merged+milestone:3.4.15)
 * 3.4.14 Released December 18th, 2020 &#124; [ZIP](https://repo.deegree.org/content/groups/public/org/deegree/deegree-webservices-tomcat-bundle/3.4.14/deegree-webservices-tomcat-bundle-3.4.14-distribution.zip) &#124; [WAR](https://repo.deegree.org/content/repositories/public/org/deegree/deegree-webservices/3.4.14/deegree-webservices-3.4.14.war) &#124; [User documentation](https://download.deegree.org/documentation/3.4.14/html) &#124; [Release notes](https://github.com/deegree/deegree3/pulls?q=is:pr+is:closed+is:merged+milestone:3.4.14)
