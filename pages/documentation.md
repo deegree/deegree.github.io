@@ -10,6 +10,7 @@ permalink: "/documentation/"
 
 This is the official user documentation ("handbook") for deegree webservices.
 
+  * 3.4.19 Released November 19, 2021 &#124; [HTML](https://download.deegree.org/documentation/3.4.19/html/) &#124; [PDF](https://download.deegree.org/documentation/3.4.19/deegree-webservices-handbook-3.4.19.pdf)
   * 3.4.18 Released November 16, 2021 &#124; [HTML](https://download.deegree.org/documentation/3.4.18/html/) &#124; [PDF](https://download.deegree.org/documentation/3.4.18/deegree-webservices-handbook-3.4.18.pdf)
   * 3.4.17 Released August 14th, 2021 &#124; [HTML](https://download.deegree.org/documentation/3.4.17/html/) &#124; [PDF](https://download.deegree.org/documentation/3.4.17/deegree-webservices-handbook-3.4.17.pdf)
   * 3.4.16 Released March 12th, 2021 &#124; [HTML](https://download.deegree.org/documentation/3.4.16/html/) &#124; [PDF](https://download.deegree.org/documentation/3.4.16/deegree-webservices-handbook-3.4.16.pdf)
