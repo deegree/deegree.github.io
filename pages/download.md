@@ -11,7 +11,7 @@ permalink: "/download/"
 This is the latest stable version (released May 15, 2023). [Read more](https://download.deegree.org/documentation/current/html/index.html#anchor-installation) on installation, download packages and system requirements.
 
 * Docker Image:  
-Download the official Docker Image from Docker Hub. Ready to use container with OpenJDK and Apache Tomcat.  
+Download the official Docker Image from Docker Hub. Ready to use container with OpenJDK 8 and Apache Tomcat 8.5.  
 [![http://dockeri.co/image/deegree/deegree3-docker](http://dockeri.co/image/deegree/deegree3-docker)](https://hub.docker.com/r/deegree/deegree3-docker/)
 
 * Java Web Archive (.war):  
