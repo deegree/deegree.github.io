@@ -25,7 +25,7 @@ Generic Java Web archive. In order to use it, you need to have a Java Servlet 3.
 
 The following early previews are intended for testers and advanced users. Some instability is expected. You need to have a Java Servlet 3.1 container and Java 11 installed on your machine.
 
-* deegree webservices 3.5.0 (next stable release) - [Download from repo](https://repo.deegree.org/#browse/search/maven=format%3Dmaven2%20AND%20attributes.maven2.artifactId%3Ddeegree-webservices%20AND%20version%3D3.5.*)
+* deegree webservices 3.5.0 (next stable release) - [Download from repo](https://repo.deegree.org/#browse/search/maven=format%3Dmaven2%20AND%20attributes.maven2.artifactId%3Ddeegree-webservices%20AND%20version%3D3.5-RC*)
 * deegree OGC API 1.3.0 (early preview based on deegree core API 3.5.0) - [Download from repo](https://repo.deegree.org/#browse/search/maven=format%3Dmaven2%20AND%20attributes.maven2.artifactId%3Ddeegree-ogcapi-webapp*%20AND%20version%3D1.3*)
 
 ## Unstable versions
