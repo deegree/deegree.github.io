@@ -6,26 +6,35 @@ teaser: ""
 permalink: "/download/"
 ---
 
-## Current version: deegree webservices 3.4.33 (stable)
+## Current version: deegree webservices 3.5.0 (stable)
 
-This is the latest stable version (released May 15, 2023). [Read more](https://download.deegree.org/documentation/current/html/index.html#anchor-installation) on installation, download packages and system requirements.
+This is the latest stable version (released July 12, 2023).
+
+* Java Web Archive (.war):  
+  Generic Java Web archive. In order to use it, you need to have a Java Servlet 3.1 container and **Java 11** installed on your machine.  
+[Download WAR](https://repo.deegree.org/content/repositories/public/org/deegree/deegree-webservices/3.5.0/deegree-webservices-3.5.0.war)
+
+## Previous version: deegree webservices 3.4.34 (deprecated)
+
+This is the old stable version (last bug fix version released May 15, 2023). [Read more](https://download.deegree.org/documentation/current/html/index.html#anchor-installation) on installation, download packages and system requirements.
 
 * Docker Image:  
 Download the official Docker Image from Docker Hub. Ready to use container with OpenJDK 8 and Apache Tomcat 8.5.  
 [![http://dockeri.co/image/deegree/deegree3-docker](http://dockeri.co/image/deegree/deegree3-docker)](https://hub.docker.com/r/deegree/deegree3-docker/)
 
 * Java Web Archive (.war):  
-Generic Java Web archive. In order to use it, you need to have a Java Servlet 3.1 container and Java 8 installed on your machine.  
+Generic Java Web archive. In order to use it, you need to have a Java Servlet 3.1 container and **Java 8** installed on your machine.  
 [Download WAR](https://repo.deegree.org/content/repositories/public/org/deegree/deegree-webservices/3.4.33/deegree-webservices-3.4.33.war)
 
 * [User documentation (HTML)](https://download.deegree.org/documentation/3.4.33/html/) &#124; [User documentation (PDF)](https://download.deegree.org/documentation/3.4.33/deegree-webservices-handbook-3.4.33.pdf)  
 * [Change log](https://github.com/deegree/deegree3/pulls?q=is:pr+is:closed+is:merged+milestone:3.4.33)
 
+For more information on the maintained versions checkout our [End of Life wiki page](https://github.com/deegree/deegree3/wiki/End-of-Life-and-Support-Matrix).
+
 ## Release candidates
 
 The following early previews are intended for testers and advanced users. Some instability is expected. You need to have a Java Servlet 3.1 container and Java 11 installed on your machine.
 
-* deegree webservices 3.5-RC (release candidate) - [Download from repo](https://repo.deegree.org/#browse/search/maven=format%3Dmaven2%20AND%20attributes.maven2.artifactId%3Ddeegree-webservices%20AND%20version%3D3.5-RC*)
 * deegree OGC API 1.3-RC (early preview based on deegree core API 3.5) - [Download from repo](https://repo.deegree.org/#browse/search/maven=format%3Dmaven2%20AND%20attributes.maven2.artifactId%3Ddeegree-ogcapi-webapp*%20AND%20version%3D1.3*)
 
 ## Unstable versions
