@@ -14,6 +14,8 @@ This is the latest stable version (released July 12, 2023).
   Generic Java Web archive. In order to use it, you need to have a Java Servlet 3.1 container and **Java 11** installed on your machine.  
 [Download WAR](https://repo.deegree.org/content/repositories/public/org/deegree/deegree-webservices/3.5.0/deegree-webservices-3.5.0.war)
 
+When upgrading from configurations used with previous 3.4 version follow the steps documented in [Upgrading deegree wiki page](https://github.com/deegree/deegree3/wiki/Upgrading-deegree-webservices#from-34x-to-350). 
+
 ## Previous version: deegree webservices 3.4.34 (deprecated)
 
 This is the old stable version (last bug fix version released May 15, 2023). [Read more](https://download.deegree.org/documentation/current/html/index.html#anchor-installation) on installation, download packages and system requirements.
