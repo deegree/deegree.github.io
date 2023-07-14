@@ -6,30 +6,35 @@ teaser: ""
 permalink: "/download/"
 ---
 
+deegree is distributed as WAR files, and Docker images. Follow these installation steps:
+
+1. Before downloading, please take a moment to review the Hardware and Software requirements section of the [user handbook](/documentation) for the selected version.
+2. Select one of the packages below and follow the download instructions.
+3. Once a deegree package has been downloaded, proceed with the Installation section of the [user handbook](/documentation).
+
 ## Current version: deegree webservices 3.5.0 (stable)
 
 This is the latest stable version (released July 12, 2023).
-
-* Java Web Archive (.war):  
+ 
+* Java Web Archive (.war):
   Generic Java Web archive. In order to use it, you need to have a Java Servlet 3.1 container and **Java 11** installed on your machine.  
 [Download WAR](https://repo.deegree.org/content/repositories/public/org/deegree/deegree-webservices/3.5.0/deegree-webservices-3.5.0.war)
 
-When upgrading from configurations used with previous 3.4 version follow the steps documented in [Upgrading deegree wiki page](https://github.com/deegree/deegree3/wiki/Upgrading-deegree-webservices#from-34x-to-350). 
+[Changelog](https://github.com/deegree/deegree3/pulls?q=is%3Apr+is%3Amerged+milestone%3A3.5+) | [Upgrade Guide](https://github.com/deegree/deegree3/wiki/Upgrading-deegree-webservices#from-34x-to-350) | [User handbook](https://download.deegree.org/documentation/3.5.0/html/) | [Installation](https://download.deegree.org/documentation/3.5.0/html/index.html#anchor-installation)
 
-## Previous version: deegree webservices 3.4.34 (deprecated)
+## Previous version: deegree webservices 3.4.33 (deprecated)
 
-This is the old stable version (last bug fix version released May 15, 2023). [Read more](https://download.deegree.org/documentation/current/html/index.html#anchor-installation) on installation, download packages and system requirements.
+This is the old stable version (last bug fix version released May 15, 2023). 
 
 * Docker Image:  
-Download the official Docker Image from Docker Hub. Ready to use container with OpenJDK 8 and Apache Tomcat 8.5.  
+Download the official Docker Image from Docker Hub. Ready to use container with **OpenJDK 8** and Apache Tomcat 8.5.  
 [![http://dockeri.co/image/deegree/deegree3-docker](http://dockeri.co/image/deegree/deegree3-docker)](https://hub.docker.com/r/deegree/deegree3-docker/)
 
 * Java Web Archive (.war):  
 Generic Java Web archive. In order to use it, you need to have a Java Servlet 3.1 container and **Java 8** installed on your machine.  
 [Download WAR](https://repo.deegree.org/content/repositories/public/org/deegree/deegree-webservices/3.4.33/deegree-webservices-3.4.33.war)
 
-* [User documentation (HTML)](https://download.deegree.org/documentation/3.4.33/html/) &#124; [User documentation (PDF)](https://download.deegree.org/documentation/3.4.33/deegree-webservices-handbook-3.4.33.pdf)  
-* [Change log](https://github.com/deegree/deegree3/pulls?q=is:pr+is:closed+is:merged+milestone:3.4.33)
+[Changelog](https://github.com/deegree/deegree3/pulls?q=is:pr+is:closed+is:merged+milestone:3.4.33) | [User handbook](https://download.deegree.org/documentation/3.4.33/html/) | [Installation](https://download.deegree.org/documentation/3.4.33/html/index.html#anchor-installation) 
 
 For more information on the maintained versions checkout our [End of Life wiki page](https://github.com/deegree/deegree3/wiki/End-of-Life-and-Support-Matrix).
 
