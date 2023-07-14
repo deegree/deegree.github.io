@@ -6,6 +6,8 @@ teaser: ""
 permalink: "/download/"
 ---
 
+# deegree download and deployment 
+
 deegree is distributed as WAR files, and Docker images. Follow these installation steps:
 
 1. Before downloading, please take a moment to review the Hardware and Software requirements section of the [user handbook](/documentation) for the selected version.
