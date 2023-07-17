@@ -130,7 +130,7 @@ The deegree project was born in summer 2002 as a consistent follow-up of a resea
   * deegree 2 (2004 - 2012) includes CSW, WCS, WCTS, WFS, WMS, WPS, WPVS - Encodings: FE, GML, Metadata - Applications: iGeoDesktop, iGeoPortal, iGeoSecurity
   * deegree 3 (2007 - ) is focused on the main OGC web services such as WFS, WMS, WMTS, CSW, WPS and a stable API.
 
-<strong>Please note that current development is focused on version 3. Version 1 and 2 are not maintained anymore!</strong>
+<strong>Please note that current development is focused on version 3. Version 1 and 2 are not maintained anymore! For more information on the maintained versions checkout our [End of Life wiki page on GitHub](https://github.com/deegree/deegree3/wiki/End-of-Life-and-Support-Matrix).</strong>
 {% endcapture %}
 {% include _accordion.html content=accordion_body title="Short History" %}
 
