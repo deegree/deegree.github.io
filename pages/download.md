@@ -20,26 +20,26 @@ This is the latest stable version (released July 12, 2023).
  
 * Docker Image:  
 Download the official Docker Image from Docker Hub. Ready to use container with **OpenJDK 11** and Apache Tomcat 9.0.  
-[Docker Image](https://hub.docker.com/r/deegree/deegree3-docker/)
+[Docker Image](https://hub.docker.com/r/deegree/deegree3-docker/tags?page=1&name=3.5)
 * Java Web Archive (.war):  
 Generic Java Web archive. In order to use it, you need to have a Java Servlet 3.1 container and **Java 11** installed on your machine.  
 [Download WAR](https://repo.deegree.org/content/repositories/public/org/deegree/deegree-webservices/3.5.0/deegree-webservices-3.5.0.war) 
 
 [Changelog](https://github.com/deegree/deegree3/pulls?q=is%3Apr+is%3Amerged+milestone%3A3.5+) | [User handbook](https://download.deegree.org/documentation/3.5.0/html/) | [Installation](https://download.deegree.org/documentation/3.5.0/html/index.html#anchor-installation) | [Upgrade Guide](https://github.com/deegree/deegree3/wiki/Upgrading-deegree-webservices#from-34x-to-350)
 
-## Previous version: deegree webservices 3.4.33 (deprecated)
+## Previous version: deegree webservices 3.4.34 (deprecated)
 
-This is the old stable version (last bug fix version released May 15, 2023). 
+This is the old stable version (last bug fix version released July 28, 2023). 
 
 * Docker Image:  
-Download the official Docker Image from Docker Hub. Ready to use container with **OpenJDK 8** and Apache Tomcat 8.5.  
-[![http://dockeri.co/image/deegree/deegree3-docker](http://dockeri.co/image/deegree/deegree3-docker)](https://hub.docker.com/r/deegree/deegree3-docker/)
+Download the official Docker Image from Docker Hub. Ready to use container with **OpenJDK 8** and Apache Tomcat 8.5.    
+[Docker Image](https://hub.docker.com/r/deegree/deegree3-docker/tags?page=1&name=v3.4)
 
 * Java Web Archive (.war):  
 Generic Java Web archive. In order to use it, you need to have a Java Servlet 3.1 container and **Java 8** installed on your machine.  
-[Download WAR](https://repo.deegree.org/content/repositories/public/org/deegree/deegree-webservices/3.4.33/deegree-webservices-3.4.33.war)
+[Download WAR](https://repo.deegree.org/content/repositories/public/org/deegree/deegree-webservices/3.4.34/deegree-webservices-3.4.34.war)
 
-[Changelog](https://github.com/deegree/deegree3/pulls?q=is:pr+is:closed+is:merged+milestone:3.4.33) | [User handbook](https://download.deegree.org/documentation/3.4.33/html/) | [Installation](https://download.deegree.org/documentation/3.4.33/html/index.html#anchor-installation) 
+[Changelog](https://github.com/deegree/deegree3/pulls?q=is:pr+is:closed+is:merged+milestone:3.4.34) | [User handbook](https://download.deegree.org/documentation/3.4.34/html/) | [Installation](https://download.deegree.org/documentation/3.4.34/html/index.html#anchor-installation) 
 
 For more information on the maintained versions checkout our [End of Life wiki page](https://github.com/deegree/deegree3/wiki/End-of-Life-and-Support-Matrix).
 
@@ -63,6 +63,7 @@ We are recommending to update to the most recent stable version of deegree. The 
 <span style="text-decoration: underline;">**WARNING:**</span> These archived versions are only provided for software development purposes, e.g. comparing differences in behavior between earlier deegree versions, and should in <span style="text-decoration: underline;">no</span> circumstance be used for new installations in production environments!
 
 {% capture accordion_body %}
+* 3.4.33 Released May 15, 2023 &#124; [ZIP](https://repo.deegree.org/content/groups/public/org/deegree/deegree-webservices-tomcat-bundle/3.4.33/deegree-webservices-tomcat-bundle-3.4.33-distribution.zip) &#124; [WAR](https://repo.deegree.org/content/repositories/public/org/deegree/deegree-webservices/3.4.33/deegree-webservices-3.4.33.war) &#124; [User documentation](https://download.deegree.org/documentation/3.4.33/html) &#124; [Changelog](https://github.com/deegree/deegree3/pulls?q=is:pr+is:closed+is:merged+milestone:3.4.33)
 * 3.4.32 Released June 30, 2022 &#124; [ZIP](https://repo.deegree.org/content/groups/public/org/deegree/deegree-webservices-tomcat-bundle/3.4.32/deegree-webservices-tomcat-bundle-3.4.32-distribution.zip) &#124; [WAR](https://repo.deegree.org/content/repositories/public/org/deegree/deegree-webservices/3.4.32/deegree-webservices-3.4.32.war) &#124; [User documentation](https://download.deegree.org/documentation/3.4.32/html) &#124; [Changelog](https://github.com/deegree/deegree3/pulls?q=is:pr+is:closed+is:merged+milestone:3.4.32)
 * 3.4.31 Released May 13, 2022 &#124; [ZIP](https://repo.deegree.org/content/groups/public/org/deegree/deegree-webservices-tomcat-bundle/3.4.31/deegree-webservices-tomcat-bundle-3.4.31-distribution.zip) &#124; [WAR](https://repo.deegree.org/content/repositories/public/org/deegree/deegree-webservices/3.4.31/deegree-webservices-3.4.31.war) &#124; [User documentation](https://download.deegree.org/documentation/3.4.31/html) &#124; [Changelog](https://github.com/deegree/deegree3/pulls?q=is:pr+is:closed+is:merged+milestone:3.4.31)
 * 3.4.30 Released May 05, 2022 &#124; [ZIP](https://repo.deegree.org/content/groups/public/org/deegree/deegree-webservices-tomcat-bundle/3.4.30/deegree-webservices-tomcat-bundle-3.4.30-distribution.zip) &#124; [WAR](https://repo.deegree.org/content/repositories/public/org/deegree/deegree-webservices/3.4.30/deegree-webservices-3.4.30.war) &#124; [User documentation](https://download.deegree.org/documentation/3.4.30/html) &#124; [Changelog](https://github.com/deegree/deegree3/pulls?q=is:pr+is:closed+is:merged+milestone:3.4.30)
