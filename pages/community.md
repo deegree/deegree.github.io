@@ -38,9 +38,9 @@ deegree's source code is hosted on <a href="https://github.com/deegree/deegree3"
 
 ### Wiki
 
-The <a href="http://wiki.deegree.org/">deegree wiki</a>&nbsp;(outdated as of deegree version 3.2) was a collaborative support and documentation resource for the deegree project, as well as a means of communication between users and developers. 
+The current developer information are available in the <a href="https://github.com/deegree/deegree3/wiki">GitHub wiki</a>.
 
-The current developer information are available in the <a href="https://github.com/deegree/deegree3/wiki">github wiki</a>.
+Archived: The old <a href="http://wiki.deegree.org/">deegree wiki</a>&nbsp;(outdated as of deegree version 3.2) was a collaborative support and documentation resource for the deegree project, as well as a means of communication between users and developers.
 
 ### IRC
 

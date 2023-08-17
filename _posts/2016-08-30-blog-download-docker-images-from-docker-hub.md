@@ -31,7 +31,8 @@ Older versions of deegree Docker images are available from [https://hub.docker.c
 
 ---
 
-_Update 2019-10-26:_
-Updated links to official deegree docker repository and versions.
-_Update 2023-08-17:_
-Updated image tags and versions for 3.5 
+_Update 2019-10-26:_ 
+Updated links to official deegree docker repository and versions.   
+
+_Update 2023-08-17:_ 
+Updated image tags and versions for 3.5.  
