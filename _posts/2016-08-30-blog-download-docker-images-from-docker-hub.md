@@ -14,12 +14,12 @@ tags:
   - cloud
   - docker
 ---
-Get current deegree release versions on docker from [docker hub](https://hub.docker.com/r/deegree/deegree3-docker/):
+Get current deegree release versions from [docker hub](https://hub.docker.com/r/deegree/deegree3-docker/):
 
-* 3.4.10 - `docker pull deegree/deegree3-docker:v3.4.10`
+* 3.5 - `docker pull deegree/deegree3-docker:3.5`
+* 3.4 - `docker pull deegree/deegree3-docker:3.4`
 
-`docker pull deegree/deegree3-docker:latest` will pull the latest image which is currently 3.4.10! All images are based on
-on the offical Apache Tomcat 8.5+ with OpenJDK 8 image.
+To pull the latest docker image use `docker pull deegree/deegree3-docker:latest`. This will pull the latest image which is currently 3.5.x! To stick with a specific bugfix version use `docker pull deegree/deegree3-docker:3.5.1`. Only the tags for the last recent versions are updated.
 
 To start a docker container with the name deegree on port 8080 run the following command:
 
@@ -32,4 +32,6 @@ Older versions of deegree Docker images are available from [https://hub.docker.c
 ---
 
 _Update 2019-10-26:_
-Updated links to official deegree docker repository and versions. 
+Updated links to official deegree docker repository and versions.
+_Update 2023-08-17:_
+Updated image tags and versions for 3.5 
