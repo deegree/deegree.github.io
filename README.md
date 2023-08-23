@@ -29,16 +29,16 @@ bundle exec jekyll serve --incremental --host=0.0.0.0 --config _config.yml,_conf
 You can use a docker container with Ruby (2.6.x) to run the web site locally. First pull the image:
 
 ```bash
-docker pull ruby:2.6.3-stretch
+docker pull ruby:3.2.2-bullseye
 ```
 On Linux run the container with:
 ```bash
-    docker run -it --rm --name jekyll -v "$PWD":/usr/src/myapp -w /usr/src/myapp -p 4000:4000 ruby:2.6.3-stretch /bin/bash
+    docker run -it --rm --name jekyll -v "$PWD":/usr/src/myapp -w /usr/src/myapp -p 4000:4000 ruby:3.2.2-bullseye /bin/bash
 ```
 
 Windows:
 ```bash
-    docker run -it --rm --name jekyll -v "%CD%":/usr/src/myapp -w /usr/src/myapp -p 4000:4000 ruby:2.6.3-stretch /bin/bash
+    docker run -it --rm --name jekyll -v "%CD%":/usr/src/myapp -w /usr/src/myapp -p 4000:4000 ruby:3.2.2-bullseye /bin/bash
 ```
 
 Inside the container run the following commands and then continue as described above:
@@ -48,4 +48,7 @@ apt-get update
 apt-get install --yes locales
 export LC_ALL=C.UTF-8
 export LANG=de_DE@UTF-8
+gem install jekyll bundler
+bundler install
+JEKYLL_ENV=docker bundle exec jekyll serve --force-polling --incremental --host=0.0.0.0 --config _config.yml,_config_dev.yml
 ```
