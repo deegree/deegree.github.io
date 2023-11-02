@@ -16,7 +16,7 @@ This is the official user documentation ("handbook") for deegree webservices.
   * 3.5.1 Released August 10, 2023 &#124; [HTML](https://download.deegree.org/documentation/3.5.1/html/) &#124; [PDF](https://download.deegree.org/documentation/3.5.1/deegree-webservices-handbook-3.5.1.pdf)  
   * 3.5.0 Released July 12, 2023 &#124; [HTML](https://download.deegree.org/documentation/3.5.0/html/) &#124; [PDF](https://download.deegree.org/documentation/3.5.0/deegree-webservices-handbook-3.5.0.pdf)  
 
-### deegree webservices 3.4
+### deegree webservices 3.4 (deprecated)
  
   * 3.4.34 Released July 28, 2023 &#124; [HTML](https://download.deegree.org/documentation/3.4.34/html/) &#124; [PDF](https://download.deegree.org/documentation/3.4.34/deegree-webservices-handbook-3.4.34.pdf)
   * 3.4.33 Released May 15, 2023 &#124; [HTML](https://download.deegree.org/documentation/3.4.33/html/) &#124; [PDF](https://download.deegree.org/documentation/3.4.33/deegree-webservices-handbook-3.4.33.pdf)
@@ -54,7 +54,7 @@ This is the official user documentation ("handbook") for deegree webservices.
   * 3.4.1  Released June 17th, 2018 &#124; [HTML](https://download.deegree.org/documentation/3.4.1/html/) &#124; [PDF](https://download.deegree.org/documentation/3.4.1/deegree-webservices-handbook-3.4.1.pdf)
   * 3.4.0  Released April 20th, 2018 &#124; [HTML](https://download.deegree.org/documentation/3.4.0/html/) &#124; [PDF](https://download.deegree.org/documentation/3.4.0/deegree-webservices-handbook-3.4.0.pdf)
 
-### deegree webservices 3.3
+### deegree webservices 3.3 (deprecated)
 
   * 3.3.21 Released February 16th, 2018 &#124; [HTML](https://download.deegree.org/documentation/3.3.21/html) &#124; [PDF](https://download.deegree.org/documentation/3.3.21/deegree-webservices-handbook-3.3.21.pdf)
   * 3.3.20 Released September 15th, 2016 &#124; [HTML](https://download.deegree.org/documentation/3.3.20/html) &#124; [PDF](https://download.deegree.org/documentation/3.3.20/deegree-webservices-handbook-3.3.20.pdf)
@@ -79,7 +79,7 @@ This is the official user documentation ("handbook") for deegree webservices.
   * 3.3.1  Released June 3rd, 2013 &#124; [HTML](https://download.deegree.org/documentation/3.3.1/html) &#124; [PDF](https://download.deegree.org/documentation/3.3.1/deegree-webservices-handbook-3.3.1.pdf)
   * 3.3.0  Released May 17th, 2013 &#124; [HTML](https://download.deegree.org/documentation/3.3.0/html) &#124; [PDF](https://download.deegree.org/documentation/3.3.0/deegree-webservices-handbook-3.3.0.pdf)
 
-### deegree webservices 3.2  
+### deegree webservices 3.2 (deprecated)
 
   * 3.2.3  Released April 30th, 2013 &#124; [HTML](https://download.deegree.org/documentation/3.2.3/html) &#124; [PDF](https://download.deegree.org/documentation/3.2.3/deegree-webservices-handbook-3.2.3.pdf)
   * 3.2.2  Released April 24th, 2013 &#124; [HTML](https://download.deegree.org/documentation/3.3.2/html) &#124; [PDF](https://download.deegree.org/documentation/3.2.2/deegree-webservices-handbook-3.2.2.pdf)
