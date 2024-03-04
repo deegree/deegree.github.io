@@ -37,7 +37,7 @@ The following early previews are intended for testers and advanced users. Some i
 
 The development builds (from main branch) are untested, except for automated regression, unit and integration tests on the build server. Use these builds for testing only!
 
-* deegree webservices 3.5.x - [Download from Jenkins CI](https://buildserver.deegree.org/view/All/job/pull-request/job/main/)
+* deegree webservices 3.6.x - [Download from Jenkins CI](https://buildserver.deegree.org/view/All/job/pull-request/job/main/) - [Download from repo](https://repo.deegree.org/#browse/search/maven=attributes.maven2.artifactId%3Ddeegree-webservice*%20AND%20version%3D3.6.0*)
 * deegree OGC API 1.3.x - [Download from Jenkins CI](https://buildserver.deegree.org/view/All/job/ogcapi-pr/job/main/)
 
 ## Archived versions
