@@ -14,18 +14,21 @@ deegree is distributed as WAR files, and Docker images. Follow these installatio
 2. Select one of the packages below and follow the download instructions.
 3. Once a deegree package has been downloaded, proceed with the Installation section of the [user handbook](/documentation).
 
-## Current version: deegree webservices 3.5.5 (stable)
+## Current version: deegree webservices 3.5.6 (stable)
 
-This is the latest stable version (released December 2, 2023).
+This is the latest stable version (released March 7, 2024).
  
 * Docker Image:  
 Download the official Docker Image from Docker Hub. Ready to use container with **OpenJDK 11** and Apache Tomcat 9.0.  
 [Docker Image](https://hub.docker.com/r/deegree/deegree3-docker/tags?page=1&name=3.5)
 * Java Web Archive (.war):  
 Generic Java Web archive. In order to use it, you need to have a Java Servlet 3.1 container and **Java 11** installed on your machine.  
-[Download WAR](https://repo.deegree.org/content/repositories/public/org/deegree/deegree-webservices/3.5.5/deegree-webservices-3.5.5.war) 
+[Download WAR](https://repo.deegree.org/content/repositories/public/org/deegree/deegree-webservices/3.5.6/deegree-webservices-3.5.6.war) 
+* GML Tools CLI (.jar):
+Commandline tools for deegree. In order to use it, you need to have **Java 11** installed on your machine.
+[Download JAR](https://repo.deegree.org/repository/releases/org/deegree/deegree-tools-gml/3.5.6/deegree-tools-gml-3.5.6.jar)
 
-[Changelog](https://github.com/deegree/deegree3/pulls?q=is%3Apr+is%3Amerged+milestone%3A3.5.5+) | [User handbook](https://download.deegree.org/documentation/3.5.5/html/) | [Installation](https://download.deegree.org/documentation/3.5.5/html/index.html#anchor-installation) | [Upgrade Guide](https://github.com/deegree/deegree3/wiki/Upgrading-deegree-webservices#from-34x-to-350)
+[Changelog](https://github.com/deegree/deegree3/pulls?q=is%3Apr+is%3Amerged+milestone%3A3.5.6+) | [User handbook](https://download.deegree.org/documentation/3.5.6/html/) | [Installation](https://download.deegree.org/documentation/3.5.6/html/index.html#anchor-installation) | [Upgrade Guide](https://github.com/deegree/deegree3/wiki/Upgrading-deegree-webservices#from-34x-to-350)
 
 ## Release candidates
 
