@@ -45,7 +45,7 @@ hideposts: true
 deegree is open source software for spatial data infrastructures and the geospatial web. deegree offers components for geospatial data management, including data access, visualization, discovery and security. Open standards are at the heart of deegree.
 
 
-[Download (stable release 3.5.5)](/download) - [Documentation](/documentation) - [Community Support](/community)
+[Download (stable release 3.5.6)](/download) - [Documentation](/documentation) - [Community Support](/community)
 
 The software is built on the standards of the Open Geospatial Consortium (OGC) and the ISO Technical Committee 211. It includes the OGC Web Map Service (WMS) reference implementation, a fully compliant Web Feature Service (WFS) as well as packages for Catalogue Service (CSW), Web Coverage Service (WCS), Web Processing Service (WPS) and Web Map Tile Service (WMTS). Since 2000 deegree has been developed by lat/lon, with the strong intention to make it a community-driven project. A major step to this effect was the acceptance to be an OSGeo project in 2010. Today, deegree is maintained by several organisations and individuals with a large user base all around the world.
 
