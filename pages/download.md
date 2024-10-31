@@ -14,7 +14,8 @@ deegree is distributed as WAR files, and Docker images. Follow these installatio
 2. Select one of the packages below and follow the download instructions.
 3. Once a deegree package has been downloaded, proceed with the Installation section of the [user handbook](/documentation).
 
-## Current version: deegree webservices 3.5.8 (stable)
+# Stable releases (current versions)
+## deegree webservices 3.5.8 (stable)
 
 This is the latest stable version (released June 11, 2024).
  
@@ -30,18 +31,31 @@ Commandline tools for deegree. In order to use it, you need to have **Java 11** 
 
 [Changelog](https://github.com/deegree/deegree3/pulls?q=is%3Apr+is%3Amerged+milestone%3A3.5.8+) | [User handbook](https://download.deegree.org/documentation/3.5.8/html/) | [Installation](https://download.deegree.org/documentation/3.5.8/html/index.html#anchor-installation) | [Upgrade Guide](https://github.com/deegree/deegree3/wiki/Upgrading-deegree-webservices#from-34x-to-350)
 
+## deegree OGC API 1.3.1 (stable)
+
+This is the latest stable version (released August 29, 2024) based on deegree core API v3.5.
+
+* Docker Image:  
+  Download the official Docker Image from Docker Hub. Ready to use container with **OpenJDK 11** and Apache Tomcat 9.0.  
+  [Pull Docker Image](https://hub.docker.com/r/deegree/deegree-ogcapi/tags?page=1&name=1.3)
+* Java Web Archive (.war):  
+  Generic Java Web archive. In order to use it, you need to have a Java Servlet 3.1 container and **Java 11** installed on your machine.  
+  [Download WAR](https://repo.deegree.org/#browse/search/maven=attributes.maven2.artifactId%3Ddeegree-ogcapi-webapp-*%20AND%20version%3D1.3.1)
+
+[Changelog](https://github.com/deegree/deegree-ogcapi/releases/tag/deegree-ogcapi-1.3.1) | [User handbook](https://github.com/deegree/deegree-ogcapi/blob/main/deegree-ogcapi-documentation/src/main/asciidoc/index.adoc) | [Installation](https://github.com/deegree/deegree-ogcapi/blob/main/deegree-ogcapi-documentation/src/main/asciidoc/installation.adoc)
+
 ## Release candidates
 
-The following early previews are intended for testers and advanced users. Some instability is expected. You need to have a Java Servlet 3.1 container and Java 11 installed on your machine.
+The following early previews are intended for testers and advanced users. Some instability is expected. You need to have a Java Servlet 6.0 container and Java 17 installed on your machine.
 
-* deegree OGC API 1.3-RC (early preview based on deegree core API 3.5) - [Download from repo](https://repo.deegree.org/#browse/search/maven=format%3Dmaven2%20AND%20attributes.maven2.artifactId%3Ddeegree-ogcapi-webapp*%20AND%20version%3D1.3*)
+* deegree webservices 3.6 (early preview) - [Download from repo](https://repo.deegree.org/#browse/search/maven=attributes.maven2.artifactId%3Ddeegree-webservice*%20AND%20version%3D3.6.0-pre2)
 
 ## Unstable versions
 
 The development builds (from main branch) are untested, except for automated regression, unit and integration tests on the build server. Use these builds for testing only!
 
-* deegree webservices 3.6 - [Download from Jenkins CI](https://buildserver.deegree.org/view/All/job/deegree-3.6-release-pipeline/) - [Download from repo](https://repo.deegree.org/#browse/search/maven=attributes.maven2.artifactId%3Ddeegree-webservice*%20AND%20version%3D3.6.0*)
-* deegree OGC API 1.3 - [Download from Jenkins CI](https://buildserver.deegree.org/view/All/job/ogcapi-pr/job/main/)
+* deegree webservices 3.6.x (LATEST)  - [Download from Jenkins CI](https://buildserver.deegree.org/view/All/job/pull-request/job/main/) - [Download from repo](https://repo.deegree.org/#browse/search/maven=attributes.maven2.artifactId%3Ddeegree-webservice*%20AND%20version%3D3.6.*)
+* deegree OGC API 1.3.x (LATEST) - [Download from Jenkins CI](https://buildserver.deegree.org/view/All/job/ogcapi-pr/job/main/)
 
 ## Archived versions
 
