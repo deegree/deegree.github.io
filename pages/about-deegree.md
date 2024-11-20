@@ -115,7 +115,7 @@ deegree is a standards-based Java framework for spatial data infrastructures.
 
 Interoperability is a major driver for the development of deegree. Besides being free software - which already is an important aspect of openness and hence interoperability - it implements geospatial IT standards and uses general IT technology. deegree implements the major standards of the Open Geospatial Consortium (OGC) and the ISO Technical Committee 211. deegree core subsystems like the geometry or the metadata model are based on ISO 19107 (Geographic information -- Spatial schema) and ISO 19115 (Geographic information -- Metadata).
 
-deegree web services and other applications use these core modules. They are implementations of OGC specifications, such as Web Map Service (WMS), Web Feature Service (WFS), Catalogue Service (CSW), Web Coverage Service (WCS) and Web Processing Service (WPS).
+deegree web services and other applications use these core modules. They are implementations of OGC specifications, such as Web Map Service (WMS), Web Feature Service (WFS), Catalogue Service (CSW) and Web Processing Service (WPS).
 
 #### Java technology
 
