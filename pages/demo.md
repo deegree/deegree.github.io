@@ -6,45 +6,41 @@ teaser: ""
 permalink: "/demo/"
 ---
 
-## deegree demos
+# deegree demos
 
-These are hosted versions of the four official example workspaces for deegree webservices:
+Since deegree serves as an OGC Reference Implementation, it provides public demo instances for multiple implemented OGC-compliant standards.
 
-<em>NOTE: For the hosted versions, access to the service console has been disabled. Also, support for transactional WFS or CSW requests is deactivated.</em>
+### deegree webservices
+The following capabilities are from public demo instances showcasing OGC Reference Implementations of web services using deegree webservices: 
 
-<hr>
-### deegree INSPIRE Demo Workspace
+WFS 1.0.0:
+* <a href="https://cite.deegree.org/deegree-webservices-3.5.6/services/wfs100?service=WFS&request=GetCapabilities">https://cite.deegree.org/deegree-webservices-3.5.6/services/wfs100?service=WFS&request=GetCapabilities</a>
 
-A basic INSPIRE View and Download Services setup (&gt; <a href="https://download.deegree.org/documentation/current/html/#anchor-workspace-inspire" target="_blank" rel="noopener noreferrer">more info</a>&nbsp;on usage of demo).
+WFS 1.1.0:
+* <a href="https://cite.deegree.org/deegree-webservices-3.5.6/services/wfs110?service=WFS&request=GetCapabilities">https://cite.deegree.org/deegree-webservices-3.5.6/services/wfs110?service=WFS&request=GetCapabilities</a>
 
-<p class="btn"><a href="https://demo.deegree.org/inspire-workspace/" target="_blank" rel="noopener noreferrer">Start INSPIRE Demo</a></p>
+WFS 2.0.0:
+* <a href="https://cite.deegree.org/deegree-webservices-3.5.6/services/wfs200?service=WFS&request=GetCapabilities">https://cite.deegree.org/deegree-webservices-3.5.6/services/wfs200?service=WFS&request=GetCapabilities</a>
 
-<p><img src="{{ site.urlimg }}/console_workspace_inspire2.jpg" alt="console workspace inspire2" width="300" height="226"></p>
+WMS 1.1.1:
+* <a href="https://cite.deegree.org/deegree-webservices-3.5.6/services/wms111?service=WMS&request=GetCapabilities">https://cite.deegree.org/deegree-webservices-3.5.6/services/wms111?service=WMS&request=GetCapabilities</a>
 
-<hr>
-### deegree Utah-workspace
+WMS 1.3.1:
+* <a href="https://cite.deegree.org/deegree-webservices-3.5.6/services/wms131?service=WMS&request=GetCapabilities">https://cite.deegree.org/deegree-webservices-3.5.6/services/wms131?service=WMS&request=GetCapabilities</a>
 
-A web mapping setup based on data from the state of Utah (&gt; <a href="https://download.deegree.org/documentation/current/html/#anchor-workspace-utah" target="_blank" rel="noopener noreferrer">more info</a>&nbsp;on usage of demo).
+WMTS 1.0.0:
+* <a href="https://cite.deegree.org/deegree-webservices-3.5.6/services/wmts100?service=WMTS&request=GetCapabilities">https://cite.deegree.org/deegree-webservices-3.5.6/services/wmts100?service=WMTS&request=GetCapabilities</a>
 
-<p class="btn"><a href="https://demo.deegree.org/utah-workspace/" target="_blank" rel="noopener noreferrer">Start Utah Demo</a>&nbsp;</p>
-
-<p><img src="{{ site.urlimg }}/console_workspace_utah2.jpg" alt="console workspace utah2" width="300" height="225"></p>
-
-<hr>
-### deegree WPS-workspace
-
-A WPS setup with simple example processes and example requests (&gt;&nbsp;<a href="https://download.deegree.org/documentation/current/html/#anchor-workspace-wps" target="_blank" rel="noopener noreferrer">more info</a>&nbsp;on usage of demo).
-
-<p class="btn"><a href="https://demo.deegree.org/wps-workspace/" target="_blank" rel="noopener noreferrer">Start WPS Demo</a></p>
-
-<img src="{{ site.urlimg }}/console_workspace_wps3.jpg" alt="console workspace wps3" width="300" height="226">
+GML 3.2.1:
+* <a href="https://cite.deegree.org/deegree-webservices-3.5.6/services/gml321?service=WFS&request=GetCapabilities">https://cite.deegree.org/deegree-webservices-3.5.6/services/gml321?service=WFS&request=GetCapabilities</a>
 
 <hr>
 
-### deegree CSW-workspace
+### deegree OGC API
+Furthermore, a deegree OGC API instance with two different datasets is available under:
 
-A CSW setup that complies to the ISO Application Profile (<a href="https://download.deegree.org/documentation/current/html/#anchor-workspace-csw" target="_blank" rel="noopener noreferrer">more info</a>&nbsp;on usage of demo).
-
-<p class="btn"><a href="https://demo.deegree.org/csw-workspace/" target="_blank" rel="noopener noreferrer">Start CSW Demo</a></p>
-
-<img src="{{ site.urlimg }}/console_workspace_csw6.jpg" alt="console workspace csw6" width="300" height="226">
+* <a href="https://cite.deegree.org/deegree-ogcapi-1.3/datasets">https://cite.deegree.org/deegree-ogcapi-1.3/datasets</a> (Landingpage)
+  * Daycare facilities - Hamburg:
+    * <a href="https://cite.deegree.org/deegree-ogcapi-1.3/datasets/kitaeinrichtung">https://cite.deegree.org/deegree-ogcapi-1.3/datasets/kitaeinrichtung</a>
+  * Street tree register - Hamburg:
+    * <a href="https://cite.deegree.org/deegree-ogcapi-1.3/datasets/strassenbaumkataster">https://cite.deegree.org/deegree-ogcapi-1.3/datasets/strassenbaumkataster</a>
