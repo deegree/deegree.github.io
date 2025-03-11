@@ -49,11 +49,13 @@ deegree is open source software for spatial data infrastructures and the geospat
 
 The software is built on the standards of the Open Geospatial Consortium (OGC) and the ISO Technical Committee 211. It includes the OGC Web Map Service (WMS) reference implementation, a fully compliant Web Feature Service (WFS) as well as packages for Catalogue Service (CSW), Web Processing Service (WPS) and Web Map Tile Service (WMTS). Since 2000 deegree has been developed by lat/lon, with the strong intention to make it a community-driven project. A major step to this effect was the acceptance to be an OSGeo project in 2010. Today, deegree is maintained by several organisations and individuals with a large user base all around the world.
 
-![Figure: One of deegree's demo workspaces: A web mapping setup based on data from the state of Utah.]({{ site.urlimg }}console_workspace_utah2.jpg)
-Figure: One of deegree's demo workspaces: A web mapping setup based on data from the state of Utah.
+![Figure: INSPIRE soil data of the city of Berlin, provided through a deegree WFS with a total of 24.655 features
+and visualized in QGIS.]({{ site.urlimg }}GmlLoaderOutputVisualisation_shadow.png)
+**Figure**: INSPIRE soil data of the city of Berlin, provided through a deegree WFS with a total of 24.655 features
+and visualized in QGIS.
 
 ## deegree demos
-These are hosted versions of the official example workspaces for deegree webservices:
+A collection of all publicly available demo instances of deegree OGC Reference Implementations.
 
 [deegree demos](/demo)
 
