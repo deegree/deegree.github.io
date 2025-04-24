@@ -15,7 +15,7 @@ deegree is distributed as WAR files, and Docker images. Follow these installatio
 3. Once a deegree package has been downloaded, proceed with the Installation section of the [user handbook](/documentation).
 
 # Stable releases (current versions)
-## deegree webservices 3.5.11 (stable)
+## deegree webservices 3.5.12 (stable)
 
 This is the latest stable version (released April 16, 2025).
  
