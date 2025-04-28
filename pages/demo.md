@@ -14,33 +14,33 @@ Since deegree serves as an OGC Reference Implementation, it provides public demo
 The following capabilities are from public demo instances showcasing OGC Reference Implementations of web services using deegree webservices: 
 
 WFS 1.0.0:
-* <a href="https://cite.deegree.org/deegree-webservices-3.5.6/services/wfs100?service=WFS&request=GetCapabilities">https://cite.deegree.org/deegree-webservices-3.5.6/services/wfs100?service=WFS&request=GetCapabilities</a>
+* <a href="https://cite.deegree.org/deegree-webservices/services/wfs100?service=WFS&request=GetCapabilities">https://cite.deegree.org/deegree-webservices/services/wfs100?service=WFS&request=GetCapabilities</a>
 
 WFS 1.1.0:
-* <a href="https://cite.deegree.org/deegree-webservices-3.5.6/services/wfs110?service=WFS&request=GetCapabilities">https://cite.deegree.org/deegree-webservices-3.5.6/services/wfs110?service=WFS&request=GetCapabilities</a>
+* <a href="https://cite.deegree.org/deegree-webservices/services/wfs110?service=WFS&request=GetCapabilities">https://cite.deegree.org/deegree-webservices/services/wfs110?service=WFS&request=GetCapabilities</a>
 
 WFS 2.0.0:
-* <a href="https://cite.deegree.org/deegree-webservices-3.5.6/services/wfs200?service=WFS&request=GetCapabilities">https://cite.deegree.org/deegree-webservices-3.5.6/services/wfs200?service=WFS&request=GetCapabilities</a>
+* <a href="https://cite.deegree.org/deegree-webservices/services/wfs200?service=WFS&request=GetCapabilities">https://cite.deegree.org/deegree-webservices/services/wfs200?service=WFS&request=GetCapabilities</a>
 
 WMS 1.1.1:
-* <a href="https://cite.deegree.org/deegree-webservices-3.5.6/services/wms111?service=WMS&request=GetCapabilities">https://cite.deegree.org/deegree-webservices-3.5.6/services/wms111?service=WMS&request=GetCapabilities</a>
+* <a href="https://cite.deegree.org/deegree-webservices/services/wms111?service=WMS&request=GetCapabilities">https://cite.deegree.org/deegree-webservices/services/wms111?service=WMS&request=GetCapabilities</a>
 
 WMS 1.3.1:
-* <a href="https://cite.deegree.org/deegree-webservices-3.5.6/services/wms131?service=WMS&request=GetCapabilities">https://cite.deegree.org/deegree-webservices-3.5.6/services/wms131?service=WMS&request=GetCapabilities</a>
+* <a href="https://cite.deegree.org/deegree-webservices/services/wms130?service=WMS&request=GetCapabilities">https://cite.deegree.org/deegree-webservices/services/wms130?service=WMS&request=GetCapabilities</a>
 
 WMTS 1.0.0:
-* <a href="https://cite.deegree.org/deegree-webservices-3.5.6/services/wmts100?service=WMTS&request=GetCapabilities">https://cite.deegree.org/deegree-webservices-3.5.6/services/wmts100?service=WMTS&request=GetCapabilities</a>
+* <a href="https://cite.deegree.org/deegree-webservices/services/wmts100?service=WMTS&request=GetCapabilities">https://cite.deegree.org/deegree-webservices/services/wmts100?service=WMTS&request=GetCapabilities</a>
 
 GML 3.2.1:
-* <a href="https://cite.deegree.org/deegree-webservices-3.5.6/services/gml321?service=WFS&request=GetCapabilities">https://cite.deegree.org/deegree-webservices-3.5.6/services/gml321?service=WFS&request=GetCapabilities</a>
+* <a href="https://cite.deegree.org/deegree-webservices/services/gml321?service=WFS&request=GetCapabilities">https://cite.deegree.org/deegree-webservices/services/gml321?service=WFS&request=GetCapabilities</a>
 
-<hr>
+[toDo]: <> (---)
 
-### deegree OGC API
-Furthermore, a deegree OGC API instance with two different datasets is available under:
+[toDo]: <> (### deegree OGC API)
+[toDo]: <> (Furthermore, a deegree OGC API instance with two different datasets is available under:)
 
-* <a href="https://cite.deegree.org/deegree-ogcapi-1.3/datasets">https://cite.deegree.org/deegree-ogcapi-1.3/datasets</a> (Landingpage)
-  * Daycare facilities - Hamburg:
-    * <a href="https://cite.deegree.org/deegree-ogcapi-1.3/datasets/kitaeinrichtung">https://cite.deegree.org/deegree-ogcapi-1.3/datasets/kitaeinrichtung</a>
-  * Street tree register - Hamburg:
-    * <a href="https://cite.deegree.org/deegree-ogcapi-1.3/datasets/strassenbaumkataster">https://cite.deegree.org/deegree-ogcapi-1.3/datasets/strassenbaumkataster</a>
+[toDo]: <> (* <a href="https://cite.deegree.org/deegree-ogcapi/datasets">https://cite.deegree.org/deegree-ogcapi/datasets</a> (Landingpage)
+[toDo]: <> (* Daycare facilities - Hamburg:)
+[toDo]: <> (* <a href="https://cite.deegree.org/deegree-ogcapi/datasets/kitaeinrichtung">https://cite.deegree.org/deegree-ogcapi/datasets/kitaeinrichtung</a>)
+[toDo]: <> (* Street tree register - Hamburg:)
+[toDo]: <> (* <a href="https://cite.deegree.org/deegree-ogcapi/datasets/strassenbaumkataster">https://cite.deegree.org/deegree-ogcapi/datasets/strassenbaumkataster</a>)
