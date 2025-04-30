@@ -6,45 +6,45 @@ teaser: ""
 permalink: "/demo/"
 ---
 
-## deegree demos
+# deegree demos
 
-These are hosted versions of the four official example workspaces for deegree webservices:
+Since deegree serves as an OGC Reference Implementation, it provides public demo instances for multiple implemented OGC-compliant standards.
 
-<em>NOTE: For the hosted versions, access to the service console has been disabled. Also, support for transactional WFS or CSW requests is deactivated.</em>
+### deegree webservices
+The following capabilities are from public demo instances showcasing OGC Reference Implementations of web services using deegree webservices: 
 
-<hr>
-### deegree INSPIRE Demo Workspace
+WFS 1.0.0:
+* https://demo.deegree.org/deegree-webservices/services/wfs100?service=WFS&request=GetCapabilities
 
-A basic INSPIRE View and Download Services setup (&gt; <a href="https://download.deegree.org/documentation/current/html/#anchor-workspace-inspire" target="_blank" rel="noopener noreferrer">more info</a>&nbsp;on usage of demo).
+WFS 1.1.0:
+* https://demo.deegree.org/deegree-webservices/services/wfs110?service=WFS&request=GetCapabilities
 
-<p class="btn"><a href="https://demo.deegree.org/inspire-workspace/" target="_blank" rel="noopener noreferrer">Start INSPIRE Demo</a></p>
+WFS 2.0.0:
+* https://demo.deegree.org/deegree-webservices/services/wfs200?service=WFS&request=GetCapabilities
 
-<p><img src="{{ site.urlimg }}/console_workspace_inspire2.jpg" alt="console workspace inspire2" width="300" height="226"></p>
+WMS 1.1.1:
+* https://demo.deegree.org/deegree-webservices/services/wms111?service=WMS&request=GetCapabilities
 
-<hr>
-### deegree Utah-workspace
+WMS 1.3.0:
+* https://demo.deegree.org/deegree-webservices/services/wms130?service=WMS&request=GetCapabilities
 
-A web mapping setup based on data from the state of Utah (&gt; <a href="https://download.deegree.org/documentation/current/html/#anchor-workspace-utah" target="_blank" rel="noopener noreferrer">more info</a>&nbsp;on usage of demo).
+WMTS 1.0.0:
+* https://demo.deegree.org/deegree-webservices/services/wmts100?service=WMTS&request=GetCapabilities
 
-<p class="btn"><a href="https://demo.deegree.org/utah-workspace/" target="_blank" rel="noopener noreferrer">Start Utah Demo</a>&nbsp;</p>
+GML 3.2.1:
+* https://demo.deegree.org/deegree-webservices/services/gml321?service=WFS&request=GetCapabilities
 
-<p><img src="{{ site.urlimg }}/console_workspace_utah2.jpg" alt="console workspace utah2" width="300" height="225"></p>
+### deegree-workspace-utah
 
-<hr>
-### deegree WPS-workspace
+* https://demo.deegree.org/utah-workspace/ 
 
-A WPS setup with simple example processes and example requests (&gt;&nbsp;<a href="https://download.deegree.org/documentation/current/html/#anchor-workspace-wps" target="_blank" rel="noopener noreferrer">more info</a>&nbsp;on usage of demo).
+[toDo]: <> (---)
 
-<p class="btn"><a href="https://demo.deegree.org/wps-workspace/" target="_blank" rel="noopener noreferrer">Start WPS Demo</a></p>
+[toDo]: <> (### deegree OGC API)
+[toDo]: <> (Furthermore, a deegree OGC API instance with two different datasets is available under:)
 
-<img src="{{ site.urlimg }}/console_workspace_wps3.jpg" alt="console workspace wps3" width="300" height="226">
-
-<hr>
-
-### deegree CSW-workspace
-
-A CSW setup that complies to the ISO Application Profile (<a href="https://download.deegree.org/documentation/current/html/#anchor-workspace-csw" target="_blank" rel="noopener noreferrer">more info</a>&nbsp;on usage of demo).
-
-<p class="btn"><a href="https://demo.deegree.org/csw-workspace/" target="_blank" rel="noopener noreferrer">Start CSW Demo</a></p>
-
-<img src="{{ site.urlimg }}/console_workspace_csw6.jpg" alt="console workspace csw6" width="300" height="226">
+[toDo]: <> (* <a href="https://demo.deegree.org/deegree-ogcapi/datasets">https://demo.deegree.org/deegree-ogcapi/datasets</a> (Landingpage)
+[toDo]: <> (* Daycare facilities - Hamburg:)
+[toDo]: <> (* <a href="https://demo.deegree.org/deegree-ogcapi/datasets/kitaeinrichtung">https://demo.deegree.org/deegree-ogcapi/datasets/kitaeinrichtung</a>)
+[toDo]: <> (* Street tree register - Hamburg:)
+[toDo]: <> (* <a href="https://demo.deegree.org/deegree-ogcapi/datasets/strassenbaumkataster">https://demo.deegree.org/deegree-ogcapi/datasets/strassenbaumkataster</a>)
