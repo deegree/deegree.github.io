@@ -14,25 +14,29 @@ Since deegree serves as an OGC Reference Implementation, it provides public demo
 The following capabilities are from public demo instances showcasing OGC Reference Implementations of web services using deegree webservices: 
 
 WFS 1.0.0:
-* <a href="https://demo.deegree.org/deegree-webservices/services/wfs100?service=WFS&request=GetCapabilities">https://demo.deegree.org/deegree-webservices/services/wfs100?service=WFS&request=GetCapabilities</a>
+* https://demo.deegree.org/deegree-webservices/services/wfs100?service=WFS&request=GetCapabilities
 
 WFS 1.1.0:
-* <a href="https://demo.deegree.org/deegree-webservices/services/wfs110?service=WFS&request=GetCapabilities">https://demo.deegree.org/deegree-webservices/services/wfs110?service=WFS&request=GetCapabilities</a>
+* https://demo.deegree.org/deegree-webservices/services/wfs110?service=WFS&request=GetCapabilities
 
 WFS 2.0.0:
-* <a href="https://demo.deegree.org/deegree-webservices/services/wfs200?service=WFS&request=GetCapabilities">https://demo.deegree.org/deegree-webservices/services/wfs200?service=WFS&request=GetCapabilities</a>
+* https://demo.deegree.org/deegree-webservices/services/wfs200?service=WFS&request=GetCapabilities
 
 WMS 1.1.1:
-* <a href="https://demo.deegree.org/deegree-webservices/services/wms111?service=WMS&request=GetCapabilities">https://demo.deegree.org/deegree-webservices/services/wms111?service=WMS&request=GetCapabilities</a>
+* https://demo.deegree.org/deegree-webservices/services/wms111?service=WMS&request=GetCapabilities
 
-WMS 1.3.1:
-* <a href="https://demo.deegree.org/deegree-webservices/services/wms130?service=WMS&request=GetCapabilities">https://demo.deegree.org/deegree-webservices/services/wms130?service=WMS&request=GetCapabilities</a>
+WMS 1.3.0:
+* https://demo.deegree.org/deegree-webservices/services/wms130?service=WMS&request=GetCapabilities
 
 WMTS 1.0.0:
-* <a href="https://demo.deegree.org/deegree-webservices/services/wmts100?service=WMTS&request=GetCapabilities">https://demo.deegree.org/deegree-webservices/services/wmts100?service=WMTS&request=GetCapabilities</a>
+* https://demo.deegree.org/deegree-webservices/services/wmts100?service=WMTS&request=GetCapabilities
 
 GML 3.2.1:
-* <a href="https://demo.deegree.org/deegree-webservices/services/gml321?service=WFS&request=GetCapabilities">https://demo.deegree.org/deegree-webservices/services/gml321?service=WFS&request=GetCapabilities</a>
+* https://demo.deegree.org/deegree-webservices/services/gml321?service=WFS&request=GetCapabilities
+
+### deegree-workspace-utah
+
+* https://demo.deegree.org/utah-workspace/ 
 
 [toDo]: <> (---)
 
