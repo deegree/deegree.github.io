@@ -48,7 +48,7 @@ This is the latest stable version (released May 30, 2025) based on deegree core 
 
 The following early previews are intended for testers and advanced users. Some instability is expected. You need to have a **Java Servlet 6.0** container and **Java 17** installed on your machine.
 
-* deegree webservices 3.6 (early preview) - [Download from repo](https://repo.deegree.org/#browse/search/maven=attributes.maven2.artifactId%3Ddeegree-webservices%20AND%20version%3D3.6.0-pre4) - [Pull Docker Image](https://hub.docker.com/r/deegree/deegree3-docker/tags?page=1&name=3.6)
+* deegree webservices 3.6 (release candidate) - [Download from repo](https://repo.deegree.org/#browse/search/maven=attributes.maven2.artifactId%3Ddeegree-webservices%20AND%20version%3D3.6-RC1) - [Pull Docker Image](https://hub.docker.com/r/deegree/deegree3-docker/tags?page=1&name=3.6)
 
 ## Unstable versions
 
