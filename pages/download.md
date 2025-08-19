@@ -31,18 +31,18 @@ Commandline tools for deegree. In order to use it, you need to have **Java 11** 
 
 [Changelog](https://github.com/deegree/deegree3/pulls?q=is%3Apr+is%3Amerged+milestone%3A3.5.15+) | [User handbook](https://download.deegree.org/documentation/3.5.15/html/) | [Installation](https://download.deegree.org/documentation/3.5.15/html/index.html#anchor-installation) | [Upgrade Guide](https://github.com/deegree/deegree3/wiki/Upgrading-deegree-webservices#from-34x-to-350)
 
-## deegree ogcapi 1.3.7 (stable)
+## deegree ogcapi 1.3.8 (stable)
 
-This is the latest stable version (released June 29, 2025) based on deegree core API v3.5.
+This is the latest stable version (released August 7, 2025) based on deegree core API v3.5.
 
 * Docker Image:  
   Download the official Docker Image from Docker Hub. Ready to use container with **OpenJDK 11** and Apache Tomcat 9.0.  
   [Pull Docker Image](https://hub.docker.com/r/deegree/deegree-ogcapi/tags?page=1&name=1.3)
 * Java Web Archive (.war):  
   Generic Java Web archive. In order to use it, you need to have a Java Servlet 3.1 container and **Java 11** installed on your machine.  
-  [Download WAR](https://repo.deegree.org/#browse/search/maven=attributes.maven2.artifactId%3Ddeegree-ogcapi-webapp-*%20AND%20version%3D1.3.7)
+  [Download WAR](https://repo.deegree.org/#browse/search/maven=attributes.maven2.artifactId%3Ddeegree-ogcapi-webapp-*%20AND%20version%3D1.3.8)
 
-[Changelog](https://github.com/deegree/deegree-ogcapi/releases/tag/deegree-ogcapi-1.3.7) | [User handbook](https://github.com/deegree/deegree-ogcapi/blob/main/deegree-ogcapi-documentation/src/main/asciidoc/index.adoc) | [Installation](https://github.com/deegree/deegree-ogcapi/blob/main/deegree-ogcapi-documentation/src/main/asciidoc/installation.adoc)
+[Changelog](https://github.com/deegree/deegree-ogcapi/releases/tag/deegree-ogcapi-1.3.8) | [User handbook](https://github.com/deegree/deegree-ogcapi/blob/main/deegree-ogcapi-documentation/src/main/asciidoc/index.adoc) | [Installation](https://github.com/deegree/deegree-ogcapi/blob/main/deegree-ogcapi-documentation/src/main/asciidoc/installation.adoc)
 
 ## Release candidates
 
