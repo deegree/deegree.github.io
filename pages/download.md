@@ -27,7 +27,7 @@ This is the latest stable version (released August 20, 2025).
   Generic Java Web archive. In order to use it, you need to have a Java Servlet 6.0 container and **Java 17** installed on your machine.  
   [Download WAR](https://repo.deegree.org/content/repositories/public/org/deegree/deegree-webservices/3.6.0/deegree-webservices-3.6.0.war)
 * GML Tools CLI (.jar):  
-  Commandline tools for deegree. In order to use it, you need to have **Java 11** installed on your machine.  
+  Commandline tools for deegree. In order to use it, you need to have **Java 17** installed on your machine.  
   [Download JAR](https://repo.deegree.org/repository/releases/org/deegree/deegree-tools-gml/3.6.0/deegree-tools-gml-3.6.0.jar)
 
 [Changelog](https://github.com/deegree/deegree3/releases/tag/deegree-3.6.0) | [User handbook](https://download.deegree.org/documentation/3.6.0/html/) | [Installation](https://download.deegree.org/documentation/3.6.0/html/index.html#anchor-installation) | [Upgrade Guide](https://github.com/deegree/deegree3/wiki/Upgrading-deegree-webservices#from-35x-to-360)
