@@ -16,37 +16,37 @@ deegree is distributed as WAR files, and Docker images. Follow these installatio
 
 # Stable releases (current versions)
 
-## deegree webservices 3.6.0 (stable)
+## deegree webservices 3.6.1 (stable)
 
-This is the latest stable version (released August 20, 2025).
+This is the latest stable version (released September 5, 2025).
 
 * Docker Image:  
   Download the official Docker Image from Docker Hub. Ready to use container with **OpenJDK 17** and Apache Tomcat 10.1.  
   [Pull Docker Image](https://hub.docker.com/r/deegree/deegree3-docker/tags?page=1&name=3.6)
 * Java Web Archive (.war):  
   Generic Java Web archive. In order to use it, you need to have a Java Servlet 6.0 container and **Java 17** installed on your machine.  
-  [Download WAR](https://repo.deegree.org/content/repositories/public/org/deegree/deegree-webservices/3.6.0/deegree-webservices-3.6.0.war)
+  [Download WAR](https://repo.deegree.org/content/repositories/public/org/deegree/deegree-webservices/3.6.1/deegree-webservices-3.6.1.war)
 * GML Tools CLI (.jar):  
   Commandline tools for deegree. In order to use it, you need to have **Java 17** installed on your machine.  
-  [Download JAR](https://repo.deegree.org/repository/releases/org/deegree/deegree-tools-gml/3.6.0/deegree-tools-gml-3.6.0.jar)
+  [Download JAR](https://repo.deegree.org/repository/releases/org/deegree/deegree-tools-gml/3.6.1/deegree-tools-gml-3.6.1.jar)
 
-[Changelog](https://github.com/deegree/deegree3/releases/tag/deegree-3.6.0) | [User handbook](https://download.deegree.org/documentation/3.6.0/html/) | [Installation](https://download.deegree.org/documentation/3.6.0/html/index.html#anchor-installation) | [Upgrade Guide](https://github.com/deegree/deegree3/wiki/Upgrading-deegree-webservices#from-35x-to-360)
+[Changelog](https://github.com/deegree/deegree3/releases/tag/deegree-3.6.1) | [User handbook](https://download.deegree.org/documentation/3.6.1/html/) | [Installation](https://download.deegree.org/documentation/3.6.1/html/index.html#anchor-installation) | [Upgrade Guide](https://github.com/deegree/deegree3/wiki/Upgrading-deegree-webservices#from-35x-to-360)
 
-## deegree webservices 3.5.16 (stable)
+## deegree webservices 3.5.17 (stable)
 
-This is the latest stable version (released August 20, 2025).
+This is the latest stable version (released September 4, 2025).
  
 * Docker Image:  
 Download the official Docker Image from Docker Hub. Ready to use container with **OpenJDK 11** and Apache Tomcat 9.0.  
 [Pull Docker Image](https://hub.docker.com/r/deegree/deegree3-docker/tags?page=1&name=3.5)
 * Java Web Archive (.war):  
 Generic Java Web archive. In order to use it, you need to have a Java Servlet 3.1 container and **Java 11** installed on your machine.  
-[Download WAR](https://repo.deegree.org/content/repositories/public/org/deegree/deegree-webservices/3.5.16/deegree-webservices-3.5.16.war) 
+[Download WAR](https://repo.deegree.org/content/repositories/public/org/deegree/deegree-webservices/3.5.17/deegree-webservices-3.5.17.war) 
 * GML Tools CLI (.jar):  
 Commandline tools for deegree. In order to use it, you need to have **Java 11** installed on your machine.  
-[Download JAR](https://repo.deegree.org/repository/releases/org/deegree/deegree-tools-gml/3.5.16/deegree-tools-gml-3.5.16.jar)
+[Download JAR](https://repo.deegree.org/repository/releases/org/deegree/deegree-tools-gml/3.5.17/deegree-tools-gml-3.5.17.jar)
 
-[Changelog](https://github.com/deegree/deegree3/pulls?q=is%3Apr+is%3Amerged+milestone%3A3.5.16+) | [User handbook](https://download.deegree.org/documentation/3.5.16/html/) | [Installation](https://download.deegree.org/documentation/3.5.16/html/index.html#anchor-installation) | [Upgrade Guide](https://github.com/deegree/deegree3/wiki/Upgrading-deegree-webservices#from-34x-to-350)
+[Changelog](https://github.com/deegree/deegree3/pulls?q=is%3Apr+is%3Amerged+milestone%3A3.5.17+) | [User handbook](https://download.deegree.org/documentation/3.5.17/html/) | [Installation](https://download.deegree.org/documentation/3.5.17/html/index.html#anchor-installation) | [Upgrade Guide](https://github.com/deegree/deegree3/wiki/Upgrading-deegree-webservices#from-34x-to-350)
 
 ## deegree ogcapi 1.3.9 (stable)
 
@@ -61,18 +61,20 @@ This is the latest stable version (released August 20, 2025) based on deegree co
 
 [Changelog](https://github.com/deegree/deegree-ogcapi/releases/tag/deegree-ogcapi-1.3.9) | [User handbook](https://github.com/deegree/deegree-ogcapi/blob/main/deegree-ogcapi-documentation/src/main/asciidoc/index.adoc) | [Installation](https://github.com/deegree/deegree-ogcapi/blob/main/deegree-ogcapi-documentation/src/main/asciidoc/installation.adoc)
 
+<!--
 ## Release candidates
 
 The following early previews are intended for testers and advanced users. Some instability is expected. You need to have a **Java Servlet 6.1** container and **Java 21** installed on your machine.
 
 * deegree webservices 3.7 (under construction) - [Download from repo](https://repo.deegree.org/#browse/search/maven=attributes.maven2.artifactId%3Ddeegree-webservices%20AND%20version%3D3.7) - [Pull Docker Image](https://hub.docker.com/r/deegree/deegree3-docker/tags?page=1&name=3.7)
+-->
 
 ## Unstable versions
 
 The development builds (from main branch) are untested, except for automated regression, unit and integration tests on the build server. Use these builds for testing only!
 
 * deegree webservices 3.6.x (LATEST)  - [Download from Jenkins CI](https://buildserver.deegree.org/view/All/job/pull-request/job/main/) - [Download from repo](https://repo.deegree.org/#browse/search/maven=attributes.maven2.artifactId%3Ddeegree-webservices%20AND%20version%3D3.6.*)
-* deegree ogcapi 1.3.x (LATEST) - [Download from Jenkins CI](https://buildserver.deegree.org/view/All/job/ogcapi-pr/job/main/)
+* deegree ogcapi 2.0.x (LATEST) - [Download from Jenkins CI](https://buildserver.deegree.org/view/All/job/ogcapi-pr/job/main/)
 
 ## Archived versions
 
@@ -81,6 +83,7 @@ We are recommending to update to the most recent stable version of deegree. The 
 <span style="text-decoration: underline;">**WARNING:**</span> These archived versions are only provided for software development purposes, e.g. comparing differences in behavior between earlier deegree versions, and should in <span style="text-decoration: underline;">no</span> circumstance be used for new installations in production environments!
 
 {% capture accordion_body %}
+* 3.5.16 Released August 20, 2025 &#124; [WAR](https://repo.deegree.org/content/repositories/public/org/deegree/deegree-webservices/3.5.16/deegree-webservices-3.5.16.war) &#124; [Changelog](https://github.com/deegree/deegree3/pulls?q=is:pr+is:closed+is:merged+milestone:3.5.16)
 * 3.5.15 Released July 25, 2025 &#124; [WAR](https://repo.deegree.org/content/repositories/public/org/deegree/deegree-webservices/3.5.15/deegree-webservices-3.5.15.war) &#124; [Changelog](https://github.com/deegree/deegree3/pulls?q=is:pr+is:closed+is:merged+milestone:3.5.15)
 * 3.5.14 Released June 29, 2025 &#124; [WAR](https://repo.deegree.org/content/repositories/public/org/deegree/deegree-webservices/3.5.14/deegree-webservices-3.5.14.war) &#124; [Changelog](https://github.com/deegree/deegree3/pulls?q=is:pr+is:closed+is:merged+milestone:3.5.14)
 * 3.5.13 Released May 30, 2025 &#124; [WAR](https://repo.deegree.org/content/repositories/public/org/deegree/deegree-webservices/3.5.13/deegree-webservices-3.5.13.war) &#124; [Changelog](https://github.com/deegree/deegree3/pulls?q=is:pr+is:closed+is:merged+milestone:3.5.13)
