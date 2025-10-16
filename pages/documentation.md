@@ -118,6 +118,7 @@ This is the official user documentation ("handbook") for deegree webservices.
 ### deegree ogcapi
 
 * 1.3.9  Released August 20, 2025 &#124; [HTML](https://download.deegree.org/ogcapi/documentation/1.3.9/html/) &#124; [PDF](https://download.deegree.org/ogcapi/documentation/1.3.9/deegree-ogcapi.pdf)
+* [older releases...](https://download.deegree.org/ogcapi/documentation/)
 
 ## Developer documentation
 
