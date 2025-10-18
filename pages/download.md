@@ -59,7 +59,7 @@ This is the latest stable version (released August 20, 2025) based on deegree co
   Generic Java Web archive. In order to use it, you need to have a Java Servlet 3.1 container and **Java 11** installed on your machine.  
   [Download WAR](https://repo.deegree.org/#browse/search/maven=attributes.maven2.artifactId%3Ddeegree-ogcapi-webapp-*%20AND%20version%3D1.3.9)
 
-[Changelog](https://github.com/deegree/deegree-ogcapi/releases/tag/deegree-ogcapi-1.3.9) | [User handbook](https://download.deegree.org/ogcapi/documentation/1.3.9/deegree-ogcapi-documentation/) | [Installation](https://github.com/deegree/deegree-ogcapi/blob/main/deegree-ogcapi-documentation/src/main/asciidoc/installation.adoc)
+[Changelog](https://github.com/deegree/deegree-ogcapi/releases/tag/deegree-ogcapi-1.3.9) | [User handbook](https://download.deegree.org/ogcapi/documentation/1.3.9/html/) | [Installation](https://github.com/deegree/deegree-ogcapi/blob/main/deegree-ogcapi-documentation/src/main/asciidoc/installation.adoc)
 
 <!--
 ## Release candidates
