@@ -73,8 +73,8 @@ The following early previews are intended for testers and advanced users. Some i
 
 The development builds (from main branch) are untested, except for automated regression, unit and integration tests on the build server. Use these builds for testing only!
 
-* deegree webservices 3.6.x (LATEST)  - [Download from Jenkins CI](https://buildserver.deegree.org/view/All/job/deegree-3.6-release-pipeline/) - [Download from repo](https://repo.deegree.org/#browse/search/maven=attributes.maven2.artifactId%3Ddeegree-webservices%20AND%20version%3D3.6.*)
-* deegree ogcapi 2.0.x (LATEST) - [Download from Jenkins CI](https://buildserver.deegree.org/view/All/job/ogcapi-pr/job/main/) - [Download from repo](https://repo.deegree.org/#browse/search/maven=attributes.maven2.artifactId%3Ddeegree-ogcapi%20AND%20version%3D2.0.*)
+* deegree webservices 3.6.x (LATEST)  - [Download from Jenkins CI](https://buildserver.deegree.org/view/All/job/deegree-3.6-release-pipeline/) - [Download from repo](https://repo.deegree.org/#browse/search/maven=attributes.maven2.artifactId%3Ddeegree-webservices%20AND%20version%3D3.6*)
+* deegree ogcapi 2.0.x (LATEST) - [Download from Jenkins CI](https://buildserver.deegree.org/view/All/job/ogcapi-pr/job/main/) - [Download from repo](https://repo.deegree.org/#browse/search/maven=attributes.maven2.artifactId%3Ddeegree-ogcapi-webapp*%20AND%20version%3D2.0.*)
 
 ## Archived versions
 
