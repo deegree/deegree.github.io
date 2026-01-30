@@ -48,6 +48,19 @@ Commandline tools for deegree. In order to use it, you need to have **Java 11** 
 
 [Changelog](https://github.com/deegree/deegree3/pulls?q=is%3Apr+is%3Amerged+milestone%3A3.5.17+) | [User handbook](https://download.deegree.org/documentation/3.5.17/html/) | [Installation](https://download.deegree.org/documentation/3.5.17/html/index.html#anchor-installation) | [Upgrade Guide](https://github.com/deegree/deegree3/wiki/Upgrading-deegree-webservices#from-34x-to-350)
 
+## deegree ogcapi 2.0.2 (stable)
+
+This is the latest stable version (released Dezember 13, 2025) based on deegree core API v3.6.
+
+* Docker Image:  
+  Download the official Docker Image from Docker Hub. Ready to use container with **OpenJDK 17** and Apache Tomcat 10.1.  
+  [Pull Docker Image (PostgreSQL)](https://hub.docker.com/r/deegree/deegree-ogcapi-postgres/tags?page=1&name=2.0) | [Pull Docker Image (PostgreSQL)](https://hub.docker.com/r/deegree/deegree-ogcapi-mssql/tags?page=1&name=2.0) | [Pull Docker Image (Oracle)](https://hub.docker.com/r/deegree/deegree-ogcapi-oracle/tags?page=1&name=2.0)
+* Java Web Archive (.war):  
+  Generic Java Web archive. In order to use it, you need to have a Java Servlet 6.0 container and **Java 17** installed on your machine.  
+  [Download WAR](https://repo.deegree.org/#browse/search/maven=attributes.maven2.artifactId%3Ddeegree-ogcapi-webapp-*%20AND%20version%3D2.0.2)
+
+[Changelog](https://github.com/deegree/deegree-ogcapi/releases/tag/deegree-ogcapi-2.0.2) | [User handbook](https://download.deegree.org/ogcapi/documentation/2.0.2/html/) | [Installation](https://github.com/deegree/deegree-ogcapi/blob/main/deegree-ogcapi-documentation/src/main/asciidoc/installation.adoc)
+
 ## deegree ogcapi 1.3.9 (stable)
 
 This is the latest stable version (released August 20, 2025) based on deegree core API v3.5.
