@@ -16,21 +16,21 @@ deegree is distributed as WAR files, and Docker images. Follow these installatio
 
 # Stable releases (current versions)
 
-## deegree webservices 3.6.3 (stable)
+## deegree webservices 3.6.6 (stable)
 
-This is the latest stable version (released November 14, 2025).
+This is the latest stable version (released January 29, 2026).
 
 * Docker Image:  
   Download the official Docker Image from Docker Hub. Ready to use container with **OpenJDK 17** and Apache Tomcat 10.1.  
   [Pull Docker Image](https://hub.docker.com/r/deegree/deegree3-docker/tags?page=1&name=3.6)
 * Java Web Archive (.war):  
   Generic Java Web archive. In order to use it, you need to have a Java Servlet 6.0 container and **Java 17** installed on your machine.  
-  [Download WAR](https://repo.deegree.org/content/repositories/public/org/deegree/deegree-webservices/3.6.3/deegree-webservices-3.6.3.war)
+  [Download WAR](https://repo.deegree.org/content/repositories/public/org/deegree/deegree-webservices/3.6.6/deegree-webservices-3.6.6.war)
 * GML Tools CLI (.jar):  
   Commandline tools for deegree. In order to use it, you need to have **Java 17** installed on your machine.  
-  [Download JAR](https://repo.deegree.org/repository/releases/org/deegree/deegree-tools-gml/3.6.3/deegree-tools-gml-3.6.3.jar)
+  [Download JAR](https://repo.deegree.org/repository/releases/org/deegree/deegree-tools-gml/3.6.6/deegree-tools-gml-3.6.6.jar)
 
-[Changelog](https://github.com/deegree/deegree3/releases/tag/deegree-3.6.3) | [User handbook](https://download.deegree.org/documentation/3.6.3/html/) | [Installation](https://download.deegree.org/documentation/3.6.3/html/index.html#anchor-installation) | [Upgrade Guide](https://github.com/deegree/deegree3/wiki/Upgrading-deegree-webservices#from-35x-to-360)
+[Changelog](https://github.com/deegree/deegree3/releases/tag/deegree-3.6.6) | [User handbook](https://download.deegree.org/documentation/3.6.6/html/) | [Installation](https://download.deegree.org/documentation/3.6.6/html/index.html#anchor-installation) | [Upgrade Guide](https://github.com/deegree/deegree3/wiki/Upgrading-deegree-webservices#from-35x-to-360)
 
 ## deegree webservices 3.5.17 (stable)
 
@@ -83,6 +83,9 @@ We are recommending to update to the most recent stable version of deegree. The 
 <span style="text-decoration: underline;">**WARNING:**</span> These archived versions are only provided for software development purposes, e.g. comparing differences in behavior between earlier deegree versions, and should in <span style="text-decoration: underline;">no</span> circumstance be used for new installations in production environments!
 
 {% capture accordion_body %}
+* 3.6.5 Released December 13, 2025 &#124; [WAR](https://repo.deegree.org/content/repositories/public/org/deegree/deegree-webservices/3.6.5/deegree-webservices-3.6.5.war) &#124; [Changelog](https://github.com/deegree/deegree3/releases/tag/deegree-3.6.5)
+* 3.6.4 Released December 4, 2025 &#124; [WAR](https://repo.deegree.org/content/repositories/public/org/deegree/deegree-webservices/3.6.4/deegree-webservices-3.6.4.war) &#124; [Changelog](https://github.com/deegree/deegree3/releases/tag/deegree-3.6.4)
+* 3.6.3 Released November 14, 2025 &#124; [WAR](https://repo.deegree.org/content/repositories/public/org/deegree/deegree-webservices/3.6.3/deegree-webservices-3.6.3.war) &#124; [Changelog](https://github.com/deegree/deegree3/releases/tag/deegree-3.6.3)
 * 3.6.2 Released November 3, 2025 &#124; [WAR](https://repo.deegree.org/content/repositories/public/org/deegree/deegree-webservices/3.6.2/deegree-webservices-3.6.2.war) &#124; [Changelog](https://github.com/deegree/deegree3/releases/tag/deegree-3.6.2)
 * 3.6.1 Released September 5, 2025 &#124; [WAR](https://repo.deegree.org/content/repositories/public/org/deegree/deegree-webservices/3.6.1/deegree-webservices-3.6.1.war) &#124; [Changelog](https://github.com/deegree/deegree3/releases/tag/deegree-3.6.1)
 * 3.6.0 Released August 20, 2025 &#124; [WAR](https://repo.deegree.org/content/repositories/public/org/deegree/deegree-webservices/3.6.0/deegree-webservices-3.6.0.war) &#124; [Changelog](https://github.com/deegree/deegree3/releases/tag/deegree-3.6.0)
