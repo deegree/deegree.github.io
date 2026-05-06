@@ -12,8 +12,8 @@ This is the official user documentation ("handbook") for deegree webservices.
 
 ### deegree webservices 3.6
 
-* 3.6.8 Released March 13, 2026 &#124; [HTML](https://download.deegree.org/documentation/3.6.8/html/) &#124; [PDF](https://download.deegree.org/documentation/3.6.8/deegree-webservices.pdf)
-* 3.6.7 Released March 13, 2026 &#124; [HTML](https://download.deegree.org/documentation/3.6.7/html/) &#124; [PDF](https://download.deegree.org/documentation/3.6.7/deegree-webservices.pdf)
+* 3.6.8 Released April 30, 2026 &#124; [HTML](https://download.deegree.org/documentation/3.6.8/html/) &#124; [PDF](https://download.deegree.org/documentation/3.6.8/deegree-webservices.pdf)
+* 3.6.7 Released March 18, 2026 &#124; [HTML](https://download.deegree.org/documentation/3.6.7/html/) &#124; [PDF](https://download.deegree.org/documentation/3.6.7/deegree-webservices.pdf)
 * 3.6.6 Released January 29, 2026 &#124; [HTML](https://download.deegree.org/documentation/3.6.6/html/) &#124; [PDF](https://download.deegree.org/documentation/3.6.6/deegree-webservices.pdf)
 * 3.6.5 Released December 13, 2025 &#124; [HTML](https://download.deegree.org/documentation/3.6.5/html/) &#124; [PDF](https://download.deegree.org/documentation/3.6.5/deegree-webservices.pdf)
 * 3.6.4 Released December 4, 2025 &#124; [HTML](https://download.deegree.org/documentation/3.6.4/html/) &#124; [PDF](https://download.deegree.org/documentation/3.6.4/deegree-webservices.pdf)
