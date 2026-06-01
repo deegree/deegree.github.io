@@ -16,7 +16,7 @@ deegree is distributed as WAR files, and Docker images. Follow these installatio
 
 # Stable releases (current versions)
 
-## deegree webservices 3.6.8 (stable)
+## deegree webservices 3.6.9 (stable)
 
 This is the latest stable version (released April 30, 2026).
 
@@ -25,12 +25,12 @@ This is the latest stable version (released April 30, 2026).
   [Pull Docker Image](https://hub.docker.com/r/deegree/deegree3-docker/tags?page=1&name=3.6)
 * Java Web Archive (.war):  
   Generic Java Web archive. In order to use it, you need to have a Java Servlet 6.0 container and **Java 17** installed on your machine.  
-  [Download WAR](https://repo.deegree.org/content/repositories/public/org/deegree/deegree-webservices/3.6.8/deegree-webservices-3.6.8.war)
+  [Download WAR](https://repo.deegree.org/content/repositories/public/org/deegree/deegree-webservices/3.6.9/deegree-webservices-3.6.9.war)
 * GML Tools CLI (.jar):  
   Commandline tools for deegree. In order to use it, you need to have **Java 17** installed on your machine.  
-  [Download JAR](https://repo.deegree.org/repository/releases/org/deegree/deegree-tools-gml/3.6.8/deegree-tools-gml-3.6.8.jar)
+  [Download JAR](https://repo.deegree.org/repository/releases/org/deegree/deegree-tools-gml/3.6.9/deegree-tools-gml-3.6.9.jar)
 
-[Changelog](https://github.com/deegree/deegree3/releases/tag/deegree-3.6.8) | [User handbook](https://download.deegree.org/documentation/3.6.8/html/) | [Installation](https://download.deegree.org/documentation/3.6.8/html/index.html#anchor-installation) | [Upgrade Guide](https://github.com/deegree/deegree3/wiki/Upgrading-deegree-webservices#from-35x-to-360)
+[Changelog](https://github.com/deegree/deegree3/releases/tag/deegree-3.6.9) | [User handbook](https://download.deegree.org/documentation/3.6.9/html/) | [Installation](https://download.deegree.org/documentation/3.6.9/html/index.html#anchor-installation) | [Upgrade Guide](https://github.com/deegree/deegree3/wiki/Upgrading-deegree-webservices#from-35x-to-360)
 
 ## deegree webservices 3.5.17 (stable)
 
