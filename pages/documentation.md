@@ -12,6 +12,7 @@ This is the official user documentation ("handbook") for deegree webservices.
 
 ### deegree webservices 3.6
 
+* 3.6.13 Released October 3, 2026 &#124; [HTML](https://download.deegree.org/documentation/3.6.13/html/) &#124; [PDF](https://download.deegree.org/documentation/3.6.13/deegree-webservices.pdf)
 * 3.6.12 Released September 7, 2026 &#124; [HTML](https://download.deegree.org/documentation/3.6.12/html/) &#124; [PDF](https://download.deegree.org/documentation/3.6.12/deegree-webservices.pdf)
 * 3.6.11 Released August 6, 2026 &#124; [HTML](https://download.deegree.org/documentation/3.6.11/html/) &#124; [PDF](https://download.deegree.org/documentation/3.6.11/deegree-webservices.pdf)
 * 3.6.10 Released July 23, 2026 &#124; [HTML](https://download.deegree.org/documentation/3.6.10/html/) &#124; [PDF](https://download.deegree.org/documentation/3.6.10/deegree-webservices.pdf)
@@ -128,6 +129,7 @@ This is the official user documentation ("handbook") for deegree webservices.
 -->
 ### deegree ogcapi 2.0
 
+* 2.0.8  Released October 4, 2026 &#124; [HTML](https://download.deegree.org/ogcapi/documentation/2.0.8/html/) &#124; [PDF](https://download.deegree.org/ogcapi/documentation/2.0.8/deegree-ogcapi.pdf)
 * 2.0.7  Released August 10, 2026 &#124; [HTML](https://download.deegree.org/ogcapi/documentation/2.0.7/html/) &#124; [PDF](https://download.deegree.org/ogcapi/documentation/2.0.7/deegree-ogcapi.pdf)
 * 2.0.6  Released July 23, 2026 &#124; [HTML](https://download.deegree.org/ogcapi/documentation/2.0.6/html/) &#124; [PDF](https://download.deegree.org/ogcapi/documentation/2.0.6/deegree-ogcapi.pdf)
 * 2.0.5  Released May 2, 2026 &#124; [HTML](https://download.deegree.org/ogcapi/documentation/2.0.5/html/) &#124; [PDF](https://download.deegree.org/ogcapi/documentation/2.0.5/deegree-ogcapi.pdf)
