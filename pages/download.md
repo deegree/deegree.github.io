@@ -50,7 +50,7 @@ Commandline tools for deegree. In order to use it, you need to have **Java 11** 
 
 ## deegree ogcapi 2.0.9 (stable)
 
-This is the latest stable version (released November 6, 2026) based on deegree core API v3.6.
+This is the latest stable version (released November 7, 2026) based on deegree core API v3.6.
 
 * Docker Image:  
   Download the official Docker Image from Docker Hub. Ready to use container with **OpenJDK 17** and Apache Tomcat 10.1.
