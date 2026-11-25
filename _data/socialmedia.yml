@@ -1,21 +1,21 @@
 - name: GitHub
   url: https://github.com/deegree/deegree3/
   class: icon-github
-  title: ""
+  title: "GitHub - deegree3"
 
-- name: X
-  url: https://x.com/deegree_org
-  class: icon-twitter
-  title: ""
+- name: Bluesky
+  url: https://bsky.app/profile/osgeo-deegree.bsky.social
+  class: icon-globe
+  title: "Bluesky - OSGeo deegree"
 
 - name: Linkedin
   url: https://www.linkedin.com/company/deegree
   class: icon-linkedin
-  title: ""
+  title: "LinkedIn - deegree"
 
 - name: Stack Exchange
   url: https://gis.stackexchange.com/questions/tagged/deegree
-  class: icon-globe
+  class: icon-code
   title: "Stack Exchange - Geographic Information Systems"
 
 #- name: YouTube
